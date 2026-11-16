@@ -1,0 +1,231 @@
+└── ROOT: assembly / member / body | 4975 terms | 42354 patent units | chosen γ=0.7
+    ├── T01: assembly / member / body | 1470 terms | 35387 patent units | chosen γ=0.385
+    │   ├── T01.01: assembly / member / portion | 1044 terms | 32170 patent units
+    │   ├── T01.02: vehicle / shaft / mechanism | 340 terms | 17956 patent units | chosen γ=0.385
+    │   │   ├── T01.02.01: shaft / drive / ring | 113 terms | 8425 patent units
+    │   │   ├── T01.02.02: vehicle / motor / wheel | 107 terms | 8309 patent units
+    │   │   ├── T01.02.03: mechanism / variable / arm | 80 terms | 6216 patent units
+    │   │   └── T01.02.04: selectively / alignment / rack | 40 terms | 2520 patent units
+    │   ├── T01.03: body / main / seat | 63 terms | 4634 patent units | chosen γ=0.21175
+    │   │   ├── T01.03.01: body / main / seat | 38 terms | 3868 patent units
+    │   │   ├── T01.03.02: floating / deployment / float | 21 terms | 856 patent units
+    │   │   └── T01.03.R: aerial / preset / unmanned | 4 terms | 126 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T01.04: machine / dry / drum | 21 terms | 2170 patent units
+    │   └── T01.R: operatively / operatively connected | 2 terms | 126 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    ├── T02: data / unit / component | 1009 terms | 30322 patent units
+    ├── T03: gas / waste / water | 868 terms | 25512 patent units | chosen γ=0.875
+    │   ├── T03.01: water / treatment / pipe | 122 terms | 7398 patent units | chosen γ=0.48125
+    │   │   ├── T03.01.01: treatment / wastewater / sludge | 32 terms | 2382 patent units
+    │   │   ├── T03.01.02: water / pipe / tank | 32 terms | 3143 patent units
+    │   │   ├── T03.01.03: removal / tower / separator | 31 terms | 1736 patent units
+    │   │   ├── T03.01.04: collection / collecting / appliance | 15 terms | 976 patent units
+    │   │   └── T03.01.05: membrane / reverse / permeable | 12 terms | 808 patent units
+    │   ├── T03.02: plant / organic / medium | 120 terms | 5258 patent units | chosen γ=1.3125
+    │   │   ├── T03.02.01: fermentation / complex / microbial | 17 terms | 999 patent units
+    │   │   ├── T03.02.02: agricultural / planting / ecological | 14 terms | 701 patent units
+    │   │   ├── T03.02.03: plant / growth / growing | 13 terms | 980 patent units
+    │   │   ├── T03.02.04: medium / culture / grain | 12 terms | 942 patent units
+    │   │   ├── T03.02.05: animal / breeding / livestock | 11 terms | 460 patent units
+    │   │   ├── T03.02.06: straw / rice / raising | 11 terms | 414 patent units
+    │   │   ├── T03.02.07: deep / efficiently / fruit | 11 terms | 498 patent units
+    │   │   ├── T03.02.08: biomass / improving / development | 10 terms | 737 patent units
+    │   │   ├── T03.02.09: organic / soil / fertilizer | 10 terms | 939 patent units
+    │   │   └── T03.02.R: branch / biogas / anaerobic | 11 terms | 505 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T03.03: solution / recovery / produced | 116 terms | 5489 patent units | chosen γ=1.3125
+    │   │   ├── T03.03.01: recovery / produced / removing | 26 terms | 2090 patent units
+    │   │   ├── T03.03.02: extraction / solvent / extracting | 16 terms | 1170 patent units
+    │   │   ├── T03.03.03: solution / aqueous / adding | 15 terms | 1223 patent units
+    │   │   ├── T03.03.04: salt / calcium / sodium | 15 terms | 1002 patent units
+    │   │   ├── T03.03.05: concentrated / titanium / sulfuric acid | 11 terms | 427 patent units
+    │   │   ├── T03.03.06: concentration / liquor / evaporation | 10 terms | 607 patent units
+    │   │   ├── T03.03.07: chloride / polyvinyl / byproduct | 8 terms | 328 patent units
+    │   │   └── T03.03.R: earth / alkali / alkaline | 15 terms | 723 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T03.04: preparation / parts / preparing | 104 terms | 6610 patent units | chosen γ=1.09375
+    │   │   ├── T03.04.01: deg / silicon / green | 17 terms | 1117 patent units
+    │   │   ├── T03.04.02: powder / slag / iron | 16 terms | 1307 patent units
+    │   │   ├── T03.04.03: preparation / parts / preparing | 16 terms | 2602 patent units
+    │   │   ├── T03.04.04: fine / sand / aggregate | 15 terms | 877 patent units
+    │   │   ├── T03.04.05: slurry / coal / kiln | 10 terms | 637 patent units
+    │   │   ├── T03.04.06: ash / fly / mud | 9 terms | 486 patent units
+    │   │   └── T03.04.R: solid / particles / particle | 21 terms | 1966 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T03.05: waste / liquid / oil | 85 terms | 8257 patent units | chosen γ=0.875
+    │   │   ├── T03.05.01: fraction / processed / added | 20 terms | 1292 patent units
+    │   │   ├── T03.05.02: stream / feed / pyrolysis | 19 terms | 1994 patent units
+    │   │   ├── T03.05.03: liquid / mixture / step | 17 terms | 3256 patent units
+    │   │   ├── T03.05.04: waste / plastic / recycling | 16 terms | 2750 patent units
+    │   │   └── T03.05.05: oil / major / lubricant | 13 terms | 1086 patent units
+    │   ├── T03.06: production / carbon / hydrogen | 79 terms | 5698 patent units | chosen γ=1.09375
+    │   │   ├── T03.06.01: suitable / activated / optionally | 23 terms | 1612 patent units
+    │   │   ├── T03.06.02: conversion / steam / partially | 19 terms | 1622 patent units
+    │   │   ├── T03.06.03: production / hydrogen / oxygen | 17 terms | 1955 patent units
+    │   │   ├── T03.06.04: carbon / dioxide / carbon dioxide | 9 terms | 959 patent units
+    │   │   └── T03.06.R: gaseous / black / carbon monoxide | 11 terms | 681 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T03.07: metal / reaction / mass | 68 terms | 5289 patent units | chosen γ=0.48125
+    │   │   ├── T03.07.01: mass / aluminum / alloy | 31 terms | 2203 patent units
+    │   │   ├── T03.07.02: reaction / zone / carrying | 19 terms | 1665 patent units
+    │   │   └── T03.07.03: metal / furnace / molten | 18 terms | 1991 patent units
+    │   ├── T03.08: reduced / utilization / resource | 59 terms | 3069 patent units | chosen γ=1.09375
+    │   │   ├── T03.08.01: good / carried / achieved | 12 terms | 660 patent units
+    │   │   ├── T03.08.02: utilization / resource / resources | 12 terms | 666 patent units
+    │   │   ├── T03.08.03: reduced / substance / substances | 12 terms | 871 patent units
+    │   │   ├── T03.08.04: residue / residues / discharged | 10 terms | 543 patent units
+    │   │   ├── T03.08.05: industry / environmental / pollution | 9 terms | 500 patent units
+    │   │   └── T03.08.R: ice / freezing / frozen | 4 terms | 183 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T03.09: gas / exhaust / catalyst | 58 terms | 4506 patent units | chosen γ=0.65625
+    │   │   ├── T03.09.01: catalyst / oxide / reducing | 31 terms | 2591 patent units
+    │   │   ├── T03.09.02: gas / exhaust / exhaust gas | 15 terms | 1947 patent units
+    │   │   ├── T03.09.03: purification / tail / purifying | 9 terms | 498 patent units
+    │   │   └── T03.09.R: gas inlet / anhydride / gas outlet | 3 terms | 111 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T03.10: filter / porous / particulate | 25 terms | 1821 patent units
+    │   ├── T03.11: equipment / natural / stage | 17 terms | 1419 patent units
+    │   └── T03.12: bed / contaminants / reactive | 15 terms | 902 patent units
+    ├── T04: layer / substrate / manufacturing | 552 terms | 23899 patent units | chosen γ=1.05
+    │   ├── T04.01: layer / substrate / film | 105 terms | 8480 patent units | chosen γ=1.05
+    │   │   ├── T04.01.01: substrate / pattern / formation | 29 terms | 2927 patent units
+    │   │   ├── T04.01.02: layer / film / flexible | 26 terms | 3658 patent units
+    │   │   ├── T04.01.03: semiconductor / three-dimensional / effect | 18 terms | 1449 patent units
+    │   │   ├── T04.01.04: adhesive / skin / bonding | 15 terms | 1180 patent units
+    │   │   ├── T04.01.05: conductive / electrically / electrically conductive | 8 terms | 670 patent units
+    │   │   └── T04.01.R: thickness / insulating / thermally | 9 terms | 776 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T04.02: making / fiber / structures | 73 terms | 5707 patent units | chosen γ=1.3125
+    │   │   ├── T04.02.01: making / fiber / structures | 15 terms | 2506 patent units
+    │   │   ├── T04.02.02: web / roll / rolls | 12 terms | 917 patent units
+    │   │   ├── T04.02.03: fabric / filaments / nonwoven | 12 terms | 734 patent units
+    │   │   ├── T04.02.04: needle / locations / yarn | 10 terms | 612 patent units
+    │   │   ├── T04.02.05: continuous / bulk / strands | 8 terms | 712 patent units
+    │   │   ├── T04.02.06: textile / spinning / fibres | 8 terms | 508 patent units
+    │   │   └── T04.02.R: paper / wood / pulp | 8 terms | 779 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T04.03: polymer / weight / recycled | 71 terms | 4235 patent units | chosen γ=0.5775
+    │   │   ├── T04.03.01: weight / recycled / total | 28 terms | 2325 patent units
+    │   │   ├── T04.03.02: polymer / polymeric / derived | 24 terms | 1778 patent units
+    │   │   ├── T04.03.03: polyester / polyethylene / pet | 14 terms | 752 patent units
+    │   │   └── T04.03.R: biodegradable / recyclable / home | 5 terms | 342 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T04.04: composite / construction / concrete | 57 terms | 4169 patent units | chosen γ=1.3125
+    │   │   ├── T04.04.01: constructing / wrapped / wrapping | 13 terms | 664 patent units
+    │   │   ├── T04.04.02: insulation / spacer / circulation | 10 terms | 717 patent units
+    │   │   ├── T04.04.03: construction / concrete / foundation | 9 terms | 954 patent units
+    │   │   ├── T04.04.04: lightweight / shear / loads | 8 terms | 546 patent units
+    │   │   ├── T04.04.05: composite / matrix / composite material | 8 terms | 1154 patent units
+    │   │   └── T04.04.R: building / reinforced / reinforcing | 9 terms | 817 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T04.05: cavity / resin / article | 53 terms | 4094 patent units | chosen γ=0.5775
+    │   │   ├── T04.05.01: resin / thermoplastic / synthetic | 14 terms | 1120 patent units
+    │   │   ├── T04.05.02: article / articles / molded | 13 terms | 1285 patent units
+    │   │   ├── T04.05.03: stretch / specified / mould | 11 terms | 524 patent units
+    │   │   ├── T04.05.04: elastic / elastomeric / deformable | 8 terms | 707 patent units
+    │   │   └── T04.05.R: cavity / mold / molding | 7 terms | 1034 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T04.06: manufacturing / sheet / manufacture | 46 terms | 4286 patent units | chosen γ=1.05
+    │   │   ├── T04.06.01: sheet / sheets / sheet material | 11 terms | 1153 patent units
+    │   │   ├── T04.06.02: extrusion / extruded / filled | 10 terms | 660 patent units
+    │   │   ├── T04.06.03: manufacturing / manufacture / additive | 9 terms | 1684 patent units
+    │   │   ├── T04.06.04: pieces / joining / fabricating | 8 terms | 693 patent units
+    │   │   └── T04.06.R: die / press / mandrel | 8 terms | 622 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T04.07: group / compound / foam | 34 terms | 2454 patent units | chosen γ=0.5775
+    │   │   ├── T04.07.01: formula / alcohol / bond | 17 terms | 982 patent units
+    │   │   ├── T04.07.02: group / compound / groups | 12 terms | 1345 patent units
+    │   │   └── T04.07.R: foam / polyurethane / blowing | 5 terms | 362 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T04.08: phase / coating / printing | 30 terms | 2938 patent units | chosen γ=0.5775
+    │   │   ├── T04.08.01: coating / coated / applying | 15 terms | 1512 patent units
+    │   │   ├── T04.08.02: phase / change / substrates | 10 terms | 1165 patent units
+    │   │   └── T04.08.R: printing / ink / print | 5 terms | 455 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T04.09: steel / resistance / properties | 28 terms | 2178 patent units
+    │   ├── T04.10: preferably / profile / stress | 22 terms | 1419 patent units
+    │   ├── T04.11: circuit / board / pad | 17 terms | 1501 patent units
+    │   └── T04.12: density / filler / filling | 16 terms | 1242 patent units
+    ├── T05: engine / valve / air | 427 terms | 22897 patent units | chosen γ=0.875
+    │   ├── T05.01: valve / fluid / control | 94 terms | 9120 patent units | chosen γ=1.3125
+    │   │   ├── T05.01.01: flow / channel / path | 16 terms | 2278 patent units
+    │   │   ├── T05.01.02: valve / control / valves | 15 terms | 2333 patent units
+    │   │   ├── T05.01.03: inlet / outlet / conduit | 12 terms | 1559 patent units
+    │   │   ├── T05.01.04: pressure / diaphragm / differential | 10 terms | 1244 patent units
+    │   │   ├── T05.01.05: relatively / excess / turbulence | 9 terms | 589 patent units
+    │   │   ├── T05.01.06: fluid / pump / reservoir | 9 terms | 2129 patent units
+    │   │   └── T05.01.R: port / passage / hydraulic | 23 terms | 2159 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T05.02: heat / tube / temperature | 62 terms | 5658 patent units | chosen γ=0.875
+    │   │   ├── T05.02.01: temperature / heating / controlling | 19 terms | 2414 patent units
+    │   │   ├── T05.02.02: heat / exchanger / heat exchanger | 11 terms | 1314 patent units
+    │   │   ├── T05.02.03: cooling / coolant / jacket | 10 terms | 919 patent units
+    │   │   ├── T05.02.04: bundle / condenser / evaporator | 8 terms | 452 patent units
+    │   │   └── T05.02.R: tube / transfer / tubes | 14 terms | 1668 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T05.03: region / tire / direction | 61 terms | 5269 patent units | chosen γ=1.3125
+    │   │   ├── T05.03.01: direction / intermediate / radial | 16 terms | 1979 patent units
+    │   │   ├── T05.03.02: tire / rubber / bead | 10 terms | 940 patent units
+    │   │   ├── T05.03.03: stem / pumping / maintenance | 9 terms | 476 patent units
+    │   │   ├── T05.03.04: passageway / regulator / operative | 9 terms | 497 patent units
+    │   │   ├── T05.03.05: region / groove / segments | 9 terms | 1797 patent units
+    │   │   └── T05.03.06: radially / outward / inward | 8 terms | 434 patent units
+    │   ├── T05.04: engine / chamber / combustion | 54 terms | 6379 patent units
+    │   ├── T05.05: air / turbine / fan | 51 terms | 3705 patent units | chosen γ=0.65625
+    │   │   ├── T05.05.01: air / fan / duct | 25 terms | 2215 patent units
+    │   │   ├── T05.05.02: turbine / diffuser / gas turbine | 9 terms | 687 patent units
+    │   │   ├── T05.05.03: compressor / vanes / centrifugal | 8 terms | 802 patent units
+    │   │   └── T05.05.R: compressed / ambient / supplied | 9 terms | 550 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T05.06: fuel / injection / nozzle | 33 terms | 2787 patent units | chosen γ=0.48125
+    │   │   ├── T05.06.01: fuel / injection / injector | 23 terms | 2125 patent units
+    │   │   ├── T05.06.02: nozzle / spray / spraying | 8 terms | 817 patent units
+    │   │   └── T05.06.R: fuel mixture / air fuel | 2 terms | 70 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T05.07: intake / manifold / charge | 29 terms | 1709 patent units | chosen γ=0.875
+    │   │   ├── T05.07.01: manifold / carburetor / intake manifold | 13 terms | 716 patent units
+    │   │   ├── T05.07.02: intake / charge / dual | 10 terms | 855 patent units
+    │   │   └── T05.07.R: induction / throttle / accelerator | 6 terms | 357 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T05.08: reactor / vessel / operating | 28 terms | 2486 patent units
+    │   ├── T05.09: volume / interior / exterior | 13 terms | 1291 patent units
+    │   └── T05.R: aims / solve | 2 terms | 54 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    ├── T06: power / elements / storage | 248 terms | 17176 patent units | chosen γ=0.7
+    │   ├── T06.01: elements / cell / electrode | 56 terms | 5491 patent units | chosen γ=1.05
+    │   │   ├── T06.01.01: primary / secondary / ion | 14 terms | 1204 patent units
+    │   │   ├── T06.01.02: elements / active / form | 12 terms | 1771 patent units
+    │   │   ├── T06.01.03: electrode / array / electrodes | 12 terms | 1651 patent units
+    │   │   ├── T06.01.04: battery / charging / pack | 10 terms | 817 patent units
+    │   │   └── T06.01.05: cell / cathode / electrochemical | 8 terms | 1041 patent units
+    │   ├── T06.02: core / rotor / electric | 53 terms | 4595 patent units | chosen γ=1.05
+    │   │   ├── T06.02.01: core / current / coil | 16 terms | 1845 patent units
+    │   │   ├── T06.02.02: magnetic / field / electromagnetic | 11 terms | 1340 patent units
+    │   │   ├── T06.02.03: magnet / permanent / magnets | 11 terms | 651 patent units
+    │   │   ├── T06.02.04: rotor / electric / hybrid | 9 terms | 1416 patent units
+    │   │   └── T06.02.R: pole / armature / solenoid | 6 terms | 427 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T06.03: power / storage / energy | 50 terms | 4921 patent units | chosen γ=1.05
+    │   │   ├── T06.03.01: power / supply / distribution | 13 terms | 1897 patent units
+    │   │   ├── T06.03.02: storage / energy / energy storage | 12 terms | 1514 patent units
+    │   │   ├── T06.03.03: generator / generation / wind | 10 terms | 940 patent units
+    │   │   ├── T06.03.04: thermal / expansion / coefficient | 8 terms | 770 patent units
+    │   │   └── T06.03.R: generating / electricity / essential | 7 terms | 608 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T06.04: electrical / contact / connector | 31 terms | 3481 patent units | chosen γ=0.525
+    │   │   ├── T06.04.01: electrical / contact / connector | 19 terms | 2441 patent units
+    │   │   └── T06.04.02: wire / cable / conductor | 12 terms | 1323 patent units
+    │   ├── T06.05: center / plug / ground | 22 terms | 1837 patent units
+    │   ├── T06.06: distal / distal end / proximal | 17 terms | 1011 patent units
+    │   ├── T06.07: imaging / subject / pulse | 17 terms | 1189 patent units
+    │   └── T06.R: conservation / energy conservation | 2 terms | 19 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    ├── T07: acid / cells / treating | 238 terms | 11681 patent units | chosen γ=0.7
+    │   ├── T07.01: cells / single / new | 107 terms | 5719 patent units | chosen γ=0.875
+    │   │   ├── T07.01.01: single / plants / double | 30 terms | 1983 patent units
+    │   │   ├── T07.01.02: new / activity / host | 24 terms | 1679 patent units
+    │   │   ├── T07.01.03: cells / modified / specific | 22 terms | 1794 patent units
+    │   │   ├── T07.01.04: acids / starting / combining | 18 terms | 1086 patent units
+    │   │   └── T07.01.05: sequence / sequences / amino | 13 terms | 678 patent units
+    │   ├── T07.02: treating / conditions / controlled | 62 terms | 4146 patent units | chosen γ=0.525
+    │   │   ├── T07.02.01: treating / conditions / controlled | 34 terms | 3019 patent units
+    │   │   ├── T07.02.02: human / cellular / pharmaceutical | 17 terms | 948 patent units
+    │   │   ├── T07.02.03: concerns / isolation / derivatives | 8 terms | 514 patent units
+    │   │   └── T07.02.R: realize / adopts / solves | 3 terms | 76 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T07.03: detection / protein / tissue | 30 terms | 2360 patent units | chosen γ=0.525
+    │   │   ├── T07.03.01: detection / protein / tissue | 18 terms | 1759 patent units
+    │   │   ├── T07.03.02: repair / linked / operably | 8 terms | 397 patent units
+    │   │   └── T07.03.R: binding / characterized / domain | 4 terms | 318 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T07.04: delivery / site / enhancing | 18 terms | 1371 patent units
+    │   ├── T07.05: acid / nucleic / compounds | 16 terms | 1390 patent units
+    │   └── T07.R: seed / seeds / angularly | 5 terms | 257 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    ├── T08: light / optical / beam | 140 terms | 7291 patent units | chosen γ=0.875
+    │   ├── T08.01: light / radiation / lamp | 30 terms | 2175 patent units | chosen γ=1.09375
+    │   │   ├── T08.01.01: radiation / transparent / wavelength | 9 terms | 812 patent units
+    │   │   ├── T08.01.02: lamp / lighting / fixture | 8 terms | 568 patent units
+    │   │   ├── T08.01.03: light / illumination / intensity | 8 terms | 1060 patent units
+    │   │   └── T08.01.R: emitting / led / light emitting | 5 terms | 269 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    │   ├── T08.02: optical / lens / detector | 25 terms | 1808 patent units
+    │   ├── T08.03: beam / laser / welding | 23 terms | 1838 patent units
+    │   ├── T08.04: solar / reflective / reflector | 18 terms | 1125 patent units
+    │   ├── T08.05: silver / white / exposure | 18 terms | 839 patent units
+    │   ├── T08.06: color / emission / screening | 17 terms | 1116 patent units
+    │   └── T08.R: crystal / incorporating / wide | 9 terms | 577 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF
+    ├── T09: date / pct / sec | 8 terms | 295 patent units
+    └── TR: prior / superior / art | 15 terms | 436 patent units | RESIDUAL / NOT A TECHNOLOGY LEAF

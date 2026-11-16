@@ -1,0 +1,231 @@
+ROOT	Patent-derived engineering and resource-process vocabulary
+T01	Mechanical assemblies, mobility equipment and apparatus
+T02	Digital processing, sensing and information systems
+T03	Industrial materials, process streams and resource treatment
+T04	Polymer, composite and manufactured material systems
+T05	Fluid handling, thermal equipment and combustion systems
+T06	Electrical energy, magnetic machinery and connected devices
+T07	Molecular biotechnology, diagnostics and therapeutics
+T08	Photonics, optics and solar-energy devices
+T09	Patent-publication metadata terms
+TR	Residual circularity and prior-art descriptors
+T01.01	Structural housings, plates and mounting assemblies
+T01.02	Vehicle drivetrains, shafts and moving mechanisms
+T01.03	Aircraft bodies, seating and floating structures
+T01.04	Washing and drying machinery
+T01.R	Residual mechanical-connection phrasing
+T03.01	Water, wastewater and fluid-treatment infrastructure
+T03.02	Agricultural biomass, soil and biological conversion
+T03.03	Aqueous extraction, solvent recovery and metal separation
+T03.04	Solid minerals, slags and construction feedstocks
+T03.05	Mixed waste, plastic streams and liquid processing
+T03.06	Carbon feedstocks, syngas and hydrogen conversion
+T03.07	Metallurgy, alloys and high-temperature reactions
+T03.08	Resource-utilization claims and residue descriptors
+T03.09	Exhaust gases, catalytic treatment and purification
+T03.10	Porous media and particulate filtration
+T03.11	Fuel burners and staged combustion equipment
+T03.12	Fluidized beds and contaminant-reactive treatment
+T04.01	Functional films, conductive layers and substrates
+T04.02	Fiber, textile and web-based materials
+T04.03	Recycled polymers, polyester and plastic chemistry
+T04.04	Concrete, structural composites and thermal insulation
+T04.05	Resins, molding and elastomeric articles
+T04.06	Sheet fabrication, extrusion and additive manufacturing
+T04.07	Functional chemical compounds and polymer foams
+T04.08	Coatings, phase-change formulations and printing
+T04.09	High-strength and corrosion-resistant steels
+T04.10	Residual stress, fatigue and material lifetime
+T04.11	Printed circuit boards, pads and finishing
+T04.12	Microfluidic wells, fillers and assay surfaces
+T05.01	Valves, pumps and fluid-flow controls
+T05.02	Heat transfer, cooling and heating equipment
+T05.03	Tire structures, tread and inflation devices
+T05.04	Internal-combustion cylinders and engine mechanisms
+T05.05	Air movement, turbines and compressor systems
+T05.06	Fuel injectors, nozzles and spray metering
+T05.07	Air intakes, manifolds and throttle systems
+T05.08	Reactor vessels and nuclear containment equipment
+T05.09	Interior-exterior passage geometry
+T05.R	Residual problem-statement wording
+T06.01	Batteries, electrodes and electrochemical cells
+T06.02	Electric machines, magnetic cores and windings
+T06.03	Power supply, energy storage and generation
+T06.04	Electrical connectors, conductors and switches
+T06.05	Spark-plug electrodes and ignition gaps
+T06.06	Catheter drainage and pressure-control devices
+T06.07	Magnetic-resonance imaging and pulse sequences
+T06.R	Residual energy-conservation terminology
+T07.01	Engineered cells, genes and biological sequences
+T07.02	Therapeutic treatment and controlled release
+T07.03	Protein detection, tissue assays and repair
+T07.04	Targeted delivery and permeability control
+T07.05	Nucleic-acid and gene-expression inhibition
+T07.R	Residual seed and repeated-sequence wording
+T08.01	Illumination, radiation and light-emission sources
+T08.02	Optical lenses, detectors and waveguides
+T08.03	Laser and beam-based welding systems
+T08.04	Solar optics, reflectors and photovoltaics
+T08.05	Photographic silver-halide and photosensitive media
+T08.06	Color, emission and registration surfaces
+T08.R	Residual liquid-crystal and polarizing terms
+T01.02.01	Shaft, gear and transmission couplings
+T01.02.02	Vehicle wheels, suspension and motor assemblies
+T01.02.03	Cam, actuator and variable-motion mechanisms
+T01.02.04	Pivoting alignment racks and exercise mechanisms
+T01.03.01	Aircraft bodies, seats and wing structures
+T01.03.02	Buoyant marine hulls and offshore deployment
+T01.03.R	Residual unmanned aerial-vehicle terminology
+T03.01.01	Wastewater, sewage sludge and drying treatments
+T03.01.02	Water pipelines, tanks and thermal circulation
+T03.01.03	Flue-gas absorption, dust removal and heat recovery
+T03.01.04	Municipal refuse collection and disposal infrastructure
+T03.01.05	Reverse-osmosis membranes and desalination
+T03.02.01	Microbial fermentation and ethanol bioprocesses
+T03.02.02	Crop cultivation, irrigation and ecological planting
+T03.02.03	Algal growth, aquaculture and nutrient use
+T03.02.04	Culture media, fungal cultivation and harvesting
+T03.02.05	Livestock, manure and poultry-derived streams
+T03.02.06	Rice straw, grain residues and seedling substrates
+T03.02.07	Fruit and vegetable preparation processes
+T03.02.08	Hydrothermal biomass conversion and biochar
+T03.02.09	Organic fertilizers, soil and waste amendments
+T03.02.R	Residual biogas, anaerobic digestion and separation terms
+T03.03.01	Metal-ion extraction and heavy-metal recovery
+T03.03.02	Spent-solvent extraction and precipitation
+T03.03.03	Acidic leaching, filtration and stripping
+T03.03.04	Calcium, sodium and sulfate salt conversion
+T03.03.05	Titanium dioxide and waste-acid hydrolysis
+T03.03.06	Brine concentration, evaporation and crystallization
+T03.03.07	Chloride, PVC and hydrochloric by-products
+T03.03.R	Residual rare-earth, phosphate and alkaline chemistry
+T03.04.01	Silicon-carbide sintering and hardening
+T03.04.02	Slag grinding, tailings and cement powders
+T03.04.03	Raw-material preparation and dispersing agents
+T03.04.04	Sand, silica aggregates and mortar formulations
+T03.04.05	Coal slurries, lime calcination and rotary kilns
+T03.04.06	Fly ash, red mud and desulfurized gypsum
+T03.04.R	Residual particulate solids and regeneration terminology
+T03.05.01	Fractionation, distillation and material pellets
+T03.05.02	Pyrolysis feedstocks and hydrocarbon cracking
+T03.05.03	Liquid mixing and solid-liquid separation
+T03.05.04	Plastic-waste streams and chemical recycling
+T03.05.05	Lubricating oils, greases and oil-pump equipment
+T03.06.01	Activated-carbon adsorption and contact treatment
+T03.06.02	Steam conversion, methane and syngas pathways
+T03.06.03	Hydrogen production and water electrolysis
+T03.06.04	Carbon dioxide, sorbents and sequestration
+T03.06.R	Residual carbonaceous gas and carbon-black terms
+T03.07.01	Aluminum, copper and zinc alloy processing
+T03.07.02	Ceramic reaction zones and reactive constituents
+T03.07.03	Molten-metal furnaces, casting and smelting
+T03.08.01	Bamboo, timber and economic-benefit descriptors
+T03.08.02	Industrial resource-use and utilization wording
+T03.08.03	Process reduction and withdrawal descriptors
+T03.08.04	Shredded by-products and waste-residue handling
+T03.08.05	Industrial pollution and secondary-emission wording
+T03.08.R	Residual ice and frozen-material terms
+T03.09.01	Catalytic oxidation and diesel-emission reduction
+T03.09.02	Exhaust-gas recirculation and gas-stream treatment
+T03.09.03	Tail-gas purification and pollutant removal
+T03.09.R	Residual gas-inlet and outlet terminology
+T04.01.01	Patterned dielectric deposition and substrates
+T04.01.02	Flexible barrier films and packaging laminates
+T04.01.03	Semiconductor chips, wafers and transistor layers
+T04.01.04	Adhesive bonding and pressure-sensitive layers
+T04.01.05	Conductive coatings and capacitive materials
+T04.01.R	Residual insulation-thickness and thermal barriers
+T04.02.01	Cellulosic and glass-fiber mat fabrication
+T04.02.02	Continuous web rolls and labeling systems
+T04.02.03	Nonwoven filaments and textile fabrics
+T04.02.04	Knitting needles and yarn manufacturing
+T04.02.05	Twisted strands and continuous bulk fibers
+T04.02.06	Textile spinning, carpets and leather materials
+T04.02.R	Residual paper pulp, wood and corrugated products
+T04.03.01	Recycled polyolefin and polypropylene blends
+T04.03.02	Monomer chemistry and polymer depolymerization
+T04.03.03	PET, polyester resins and glycol modification
+T04.03.R	Residual compostable and biodegradable polymers
+T04.04.01	Fiber-reinforced wrapping and encapsulation
+T04.04.02	Structural spacers and thermal insulation
+T04.04.03	Precast concrete, foundations and piles
+T04.04.04	Lightweight cementitious aggregates and stiffness
+T04.04.05	Nanoparticle-reinforced composite matrices
+T04.04.R	Residual reinforced-concrete and building terms
+T04.05.01	Curing, thermoset and thermoplastic resins
+T04.05.02	Foamed and absorbent molded articles
+T04.05.03	Stretch-blow molding and preforms
+T04.05.04	Elastomer deformation and stretchable articles
+T04.05.R	Residual injection molds and cavity terms
+T04.06.01	Rolled sheet and sheet-material fabrication
+T04.06.02	Melt extrusion, granules and quenching
+T04.06.03	Additive manufacturing and material mixtures
+T04.06.04	Joining and fabrication of sheet-metal pieces
+T04.06.R	Residual die pressing, mandrels and punching
+T04.07.01	Alcohol, alkyl and water-soluble chemical formulas
+T04.07.02	Amine and functional-group formulations
+T04.07.R	Residual polyurethane foam and bio-based polyols
+T04.08.01	Binder coatings, pigments and substrate deposition
+T04.08.02	Crystalline, amorphous and phase-change media
+T04.08.R	Residual inkjet printing and interconnects
+T05.01.01	Flow paths, gas-flow rate and fluid velocity
+T05.01.02	Control valves, valve seats and valve bodies
+T05.01.03	Inlet, outlet and fluid-conduit geometry
+T05.01.04	Pressure-relief diaphragms and gauges
+T05.01.05	Turbulence, pressure excess and flow instability
+T05.01.06	Pumps, reservoirs and pressurized fluid supply
+T05.01.R	Residual hydraulic ports, passages and check valves
+T05.02.01	Heating elements and temperature regulation
+T05.02.02	Heat exchangers and thermal circulation
+T05.02.03	Coolants, radiators and evaporative cooling
+T05.02.04	Condensers, evaporators and refrigeration loops
+T05.02.R	Residual tubes, heat sinks and transfer fins
+T05.03.01	Radial tire geometry and pneumatic contours
+T05.03.02	Tire rubber, tread, bead and carcass construction
+T05.03.03	Air-maintenance tire pumps and valve stems
+T05.03.04	Self-inflating tire passages and regulators
+T05.03.05	Tire sidewall grooves and rolling footprint
+T05.03.06	Radially inward and outward tire extensions
+T05.05.01	Fans, ducts and ventilation airflow
+T05.05.02	Gas turbines and diffusers
+T05.05.03	Centrifugal compressors, impellers and vanes
+T05.05.R	Residual compressed-air and air-conditioning terms
+T05.06.01	Fuel-injection metering and injector orifices
+T05.06.02	Spray nozzles and droplet formation
+T05.06.R	Residual fuel-air mixture terminology
+T05.07.01	Air-intake manifolds, carburetors and venturis
+T05.07.02	Intake air, swirl and cylinder charge
+T05.07.R	Residual throttles and idle-control terms
+T06.01.01	Lithium-ion batteries and graphite electrodes
+T06.01.02	Active energy elements and device cavities
+T06.01.03	Electrode arrays and collectors
+T06.01.04	Battery packs, charging and cell integration
+T06.01.05	Cathodes, anodes and electrochemical cells
+T06.02.01	Coils, transformer windings and inductive cores
+T06.02.02	Magnetic fields, flux and electromagnets
+T06.02.03	Permanent magnets and magnetic forces
+T06.02.04	Electric motors, rotors and stators
+T06.02.R	Residual pole, armature and solenoid terms
+T06.03.01	Electrical power distribution and supply voltages
+T06.03.02	Energy storage, flywheels and energy conversion
+T06.03.03	Wind turbines and electrical generators
+T06.03.04	Thermal management and material expansion
+T06.03.R	Residual electricity and exothermic generation terms
+T06.04.01	Electrical contacts, terminals and switching
+T06.04.02	Conductors, cables and wire shielding
+T07.01.01	DNA/RNA probes and molecular species
+T07.01.02	Recombinant hosts, vectors and degradation enzymes
+T07.01.03	Engineered bacterial cells and gene modification
+T07.01.04	Nucleic acids, fatty acids and pathway engineering
+T07.01.05	Polypeptide, nucleotide and amino-acid sequences
+T07.02.01	Controlled-release agents and therapeutic treatment
+T07.02.02	Peptides, viral infection and immune responses
+T07.02.03	Naturally occurring derivatives and inhibitory isolation
+T07.02.R	Residual therapeutic problem-statement wording
+T07.03.01	Protein diagnostics, tissue assays and antibodies
+T07.03.02	Tissue repair and biological activation
+T07.03.R	Residual protein binding-domain descriptors
+T08.01.01	Infrared/ultraviolet radiation and disinfection
+T08.01.02	Lamps, ceiling fixtures and lighting equipment
+T08.01.03	Illumination intensity and light scattering
+T08.01.R	Residual LED and light-emitting diodes

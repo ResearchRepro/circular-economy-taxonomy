@@ -1,0 +1,18 @@
+{
+  "manuscript": "CE_Leiden_Taxonomy_Renamed_Proofread_FINAL.docx",
+  "abstract_words": 189,
+  "references": 40,
+  "figures_in_manuscript": 8,
+  "total_tables": 8,
+  "main_text_table7_rows": 10,
+  "appendix_A1_terminal_paths": 190,
+  "named_nodes": 231,
+  "renaming_procedure": "Individual source-phrase interpretation; unique sibling names; fixed graph IDs, evidence and counts",
+  "original_fig7_removed": true,
+  "gallery_after_table7_removed": true,
+  "cross_reference_layout": "caption anchors + REF fields; checked by PDF rendering",
+  "methodology_numbers_changed": false,
+  "primary_results_changed": false,
+  "proofing": "Full manuscript style check (five keywords, American spelling, 189-word abstract, no first-person prose, preserved equations, citations and declarations)",
+  "publication_note": "GitHub URL is an intended deposit destination; upload not performed"
+}

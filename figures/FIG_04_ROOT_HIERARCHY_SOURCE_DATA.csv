@@ -1,0 +1,12 @@
+﻿node_id,parent_id,depth,y_layout,term_count,patent_units,label,is_residual
+ROOT,,0,4.5,4975,42354,assembly / member / body,False
+T01,ROOT,1,0.0,1470,35387,assembly / member / body,False
+T02,ROOT,1,1.0,1009,30322,data / unit / component,False
+T03,ROOT,1,2.0,868,25512,gas / waste / water,False
+T04,ROOT,1,3.0,552,23899,layer / substrate / manufacturing,False
+T05,ROOT,1,4.0,427,22897,engine / valve / air,False
+T06,ROOT,1,5.0,248,17176,power / elements / storage,False
+T07,ROOT,1,6.0,238,11681,acid / cells / treating,False
+T08,ROOT,1,7.0,140,7291,light / optical / beam,False
+T09,ROOT,1,8.0,8,295,date / pct / sec,False
+TR,ROOT,1,9.0,15,436,prior / superior / art,True

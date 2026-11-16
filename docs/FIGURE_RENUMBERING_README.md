@@ -1,0 +1,1 @@
+The final article uses Figures 1–8. The original multi-panel Figure 7 and its gallery images were removed. Earlier FIG_05_DETAIL_Txx files in this repository are archival diagnostics and may retain old provisional labels; the authoritative labels are in data/COMPLETE_231_NODE_NAMING_REGISTER.csv and the updated Figures 6 and 8.

@@ -1,0 +1,71 @@
+TY  - JOUR
+AU  - Traag, V. A.
+AU  - Waltman, L.
+AU  - van Eck, N. J.
+PY  - 2019
+TI  - From Louvain to Leiden: guaranteeing well-connected communities
+JO  - Scientific Reports
+VL  - 9
+SP  - 5233
+DO  - 10.1038/s41598-019-41695-z
+ID  - Traag2019
+ER  - 
+
+TY  - JOUR
+AU  - Reichardt, J.
+AU  - Bornholdt, S.
+PY  - 2006
+TI  - Statistical mechanics of community detection
+JO  - Physical Review E
+VL  - 74
+SP  - 016110
+DO  - 10.1103/PhysRevE.74.016110
+ID  - Reichardt2006
+ER  - 
+
+TY  - JOUR
+AU  - Fortunato, S.
+AU  - Barthélemy, M.
+PY  - 2007
+TI  - Resolution limit in community detection
+JO  - Proceedings of the National Academy of Sciences
+VL  - 104
+SP  - 36-41
+DO  - 10.1073/pnas.0605965104
+ID  - Fortunato2007
+ER  - 
+
+TY  - JOUR
+AU  - Hubert, L.
+AU  - Arabie, P.
+PY  - 1985
+TI  - Comparing partitions
+JO  - Journal of Classification
+VL  - 2
+SP  - 193-218
+DO  - 10.1007/BF01908075
+ID  - Hubert1985
+ER  - 
+
+TY  - JOUR
+AU  - Lancichinetti, A.
+AU  - Fortunato, S.
+PY  - 2012
+TI  - Consensus clustering in complex networks
+JO  - Scientific Reports
+VL  - 2
+SP  - 336
+DO  - 10.1038/srep00336
+ID  - Lancichinetti2012
+ER  - 
+
+TY  - JOUR
+AU  - Newman, M. E. J.
+PY  - 2006
+TI  - Modularity and community structure in networks
+JO  - Proceedings of the National Academy of Sciences
+VL  - 103
+SP  - 8577-8582
+DO  - 10.1073/pnas.0601602103
+ID  - Newman2006
+ER  - 

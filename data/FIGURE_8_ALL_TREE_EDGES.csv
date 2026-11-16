@@ -1,0 +1,231 @@
+﻿parent_id,node_id,depth,root_id,technology_subdomain,patent_units,term_count,residual
+ROOT,T01,1,T01,"Mechanical assemblies, mobility equipment and apparatus",35387,1470,False
+ROOT,T02,1,T02,"Digital processing, sensing and information systems",30322,1009,False
+ROOT,T03,1,T03,"Industrial materials, process streams and resource treatment",25512,868,False
+ROOT,T04,1,T04,"Polymer, composite and manufactured material systems",23899,552,False
+ROOT,T05,1,T05,"Fluid handling, thermal equipment and combustion systems",22897,427,False
+ROOT,T06,1,T06,"Electrical energy, magnetic machinery and connected devices",17176,248,False
+ROOT,T07,1,T07,"Molecular biotechnology, diagnostics and therapeutics",11681,238,False
+ROOT,T08,1,T08,"Photonics, optics and solar-energy devices",7291,140,False
+ROOT,T09,1,T09,Patent-publication metadata terms,295,8,False
+ROOT,TR,1,TR,Residual circularity and prior-art descriptors,436,15,True
+T01,T01.01,2,T01,"Structural housings, plates and mounting assemblies",32170,1044,False
+T01,T01.02,2,T01,"Vehicle drivetrains, shafts and moving mechanisms",17956,340,False
+T01,T01.03,2,T01,"Aircraft bodies, seating and floating structures",4634,63,False
+T01,T01.04,2,T01,Washing and drying machinery,2170,21,False
+T01,T01.R,2,T01,Residual mechanical-connection phrasing,126,2,True
+T03,T03.01,2,T03,"Water, wastewater and fluid-treatment infrastructure",7398,122,False
+T03,T03.02,2,T03,"Agricultural biomass, soil and biological conversion",5258,120,False
+T03,T03.03,2,T03,"Aqueous extraction, solvent recovery and metal separation",5489,116,False
+T03,T03.04,2,T03,"Solid minerals, slags and construction feedstocks",6610,104,False
+T03,T03.05,2,T03,"Mixed waste, plastic streams and liquid processing",8257,85,False
+T03,T03.06,2,T03,"Carbon feedstocks, syngas and hydrogen conversion",5698,79,False
+T03,T03.07,2,T03,"Metallurgy, alloys and high-temperature reactions",5289,68,False
+T03,T03.08,2,T03,Resource-utilization claims and residue descriptors,3069,59,False
+T03,T03.09,2,T03,"Exhaust gases, catalytic treatment and purification",4506,58,False
+T03,T03.10,2,T03,Porous media and particulate filtration,1821,25,False
+T03,T03.11,2,T03,Fuel burners and staged combustion equipment,1419,17,False
+T03,T03.12,2,T03,Fluidized beds and contaminant-reactive treatment,902,15,False
+T04,T04.01,2,T04,"Functional films, conductive layers and substrates",8480,105,False
+T04,T04.02,2,T04,"Fiber, textile and web-based materials",5707,73,False
+T04,T04.03,2,T04,"Recycled polymers, polyester and plastic chemistry",4235,71,False
+T04,T04.04,2,T04,"Concrete, structural composites and thermal insulation",4169,57,False
+T04,T04.05,2,T04,"Resins, molding and elastomeric articles",4094,53,False
+T04,T04.06,2,T04,"Sheet fabrication, extrusion and additive manufacturing",4286,46,False
+T04,T04.07,2,T04,Functional chemical compounds and polymer foams,2454,34,False
+T04,T04.08,2,T04,"Coatings, phase-change formulations and printing",2938,30,False
+T04,T04.09,2,T04,High-strength and corrosion-resistant steels,2178,28,False
+T04,T04.10,2,T04,"Residual stress, fatigue and material lifetime",1419,22,False
+T04,T04.11,2,T04,"Printed circuit boards, pads and finishing",1501,17,False
+T04,T04.12,2,T04,"Microfluidic wells, fillers and assay surfaces",1242,16,False
+T05,T05.01,2,T05,"Valves, pumps and fluid-flow controls",9120,94,False
+T05,T05.02,2,T05,"Heat transfer, cooling and heating equipment",5658,62,False
+T05,T05.03,2,T05,"Tire structures, tread and inflation devices",5269,61,False
+T05,T05.04,2,T05,Internal-combustion cylinders and engine mechanisms,6379,54,False
+T05,T05.05,2,T05,"Air movement, turbines and compressor systems",3705,51,False
+T05,T05.06,2,T05,"Fuel injectors, nozzles and spray metering",2787,33,False
+T05,T05.07,2,T05,"Air intakes, manifolds and throttle systems",1709,29,False
+T05,T05.08,2,T05,Reactor vessels and nuclear containment equipment,2486,28,False
+T05,T05.09,2,T05,Interior-exterior passage geometry,1291,13,False
+T05,T05.R,2,T05,Residual problem-statement wording,54,2,True
+T06,T06.01,2,T06,"Batteries, electrodes and electrochemical cells",5491,56,False
+T06,T06.02,2,T06,"Electric machines, magnetic cores and windings",4595,53,False
+T06,T06.03,2,T06,"Power supply, energy storage and generation",4921,50,False
+T06,T06.04,2,T06,"Electrical connectors, conductors and switches",3481,31,False
+T06,T06.05,2,T06,Spark-plug electrodes and ignition gaps,1837,22,False
+T06,T06.06,2,T06,Catheter drainage and pressure-control devices,1011,17,False
+T06,T06.07,2,T06,Magnetic-resonance imaging and pulse sequences,1189,17,False
+T06,T06.R,2,T06,Residual energy-conservation terminology,19,2,True
+T07,T07.01,2,T07,"Engineered cells, genes and biological sequences",5719,107,False
+T07,T07.02,2,T07,Therapeutic treatment and controlled release,4146,62,False
+T07,T07.03,2,T07,"Protein detection, tissue assays and repair",2360,30,False
+T07,T07.04,2,T07,Targeted delivery and permeability control,1371,18,False
+T07,T07.05,2,T07,Nucleic-acid and gene-expression inhibition,1390,16,False
+T07,T07.R,2,T07,Residual seed and repeated-sequence wording,257,5,True
+T08,T08.01,2,T08,"Illumination, radiation and light-emission sources",2175,30,False
+T08,T08.02,2,T08,"Optical lenses, detectors and waveguides",1808,25,False
+T08,T08.03,2,T08,Laser and beam-based welding systems,1838,23,False
+T08,T08.04,2,T08,"Solar optics, reflectors and photovoltaics",1125,18,False
+T08,T08.05,2,T08,Photographic silver-halide and photosensitive media,839,18,False
+T08,T08.06,2,T08,"Color, emission and registration surfaces",1116,17,False
+T08,T08.R,2,T08,Residual liquid-crystal and polarizing terms,577,9,True
+T01.02,T01.02.01,3,T01,"Shaft, gear and transmission couplings",8425,113,False
+T01.02,T01.02.02,3,T01,"Vehicle wheels, suspension and motor assemblies",8309,107,False
+T01.02,T01.02.03,3,T01,"Cam, actuator and variable-motion mechanisms",6216,80,False
+T01.02,T01.02.04,3,T01,Pivoting alignment racks and exercise mechanisms,2520,40,False
+T01.03,T01.03.01,3,T01,"Aircraft bodies, seats and wing structures",3868,38,False
+T01.03,T01.03.02,3,T01,Buoyant marine hulls and offshore deployment,856,21,False
+T01.03,T01.03.R,3,T01,Residual unmanned aerial-vehicle terminology,126,4,True
+T03.01,T03.01.01,3,T03,"Wastewater, sewage sludge and drying treatments",2382,32,False
+T03.01,T03.01.02,3,T03,"Water pipelines, tanks and thermal circulation",3143,32,False
+T03.01,T03.01.03,3,T03,"Flue-gas absorption, dust removal and heat recovery",1736,31,False
+T03.01,T03.01.04,3,T03,Municipal refuse collection and disposal infrastructure,976,15,False
+T03.01,T03.01.05,3,T03,Reverse-osmosis membranes and desalination,808,12,False
+T03.02,T03.02.01,3,T03,Microbial fermentation and ethanol bioprocesses,999,17,False
+T03.02,T03.02.02,3,T03,"Crop cultivation, irrigation and ecological planting",701,14,False
+T03.02,T03.02.03,3,T03,"Algal growth, aquaculture and nutrient use",980,13,False
+T03.02,T03.02.04,3,T03,"Culture media, fungal cultivation and harvesting",942,12,False
+T03.02,T03.02.05,3,T03,"Livestock, manure and poultry-derived streams",460,11,False
+T03.02,T03.02.06,3,T03,"Rice straw, grain residues and seedling substrates",414,11,False
+T03.02,T03.02.07,3,T03,Fruit and vegetable preparation processes,498,11,False
+T03.02,T03.02.08,3,T03,Hydrothermal biomass conversion and biochar,737,10,False
+T03.02,T03.02.09,3,T03,"Organic fertilizers, soil and waste amendments",939,10,False
+T03.02,T03.02.R,3,T03,"Residual biogas, anaerobic digestion and separation terms",505,11,True
+T03.03,T03.03.01,3,T03,Metal-ion extraction and heavy-metal recovery,2090,26,False
+T03.03,T03.03.02,3,T03,Spent-solvent extraction and precipitation,1170,16,False
+T03.03,T03.03.03,3,T03,"Acidic leaching, filtration and stripping",1223,15,False
+T03.03,T03.03.04,3,T03,"Calcium, sodium and sulfate salt conversion",1002,15,False
+T03.03,T03.03.05,3,T03,Titanium dioxide and waste-acid hydrolysis,427,11,False
+T03.03,T03.03.06,3,T03,"Brine concentration, evaporation and crystallization",607,10,False
+T03.03,T03.03.07,3,T03,"Chloride, PVC and hydrochloric by-products",328,8,False
+T03.03,T03.03.R,3,T03,"Residual rare-earth, phosphate and alkaline chemistry",723,15,True
+T03.04,T03.04.01,3,T03,Silicon-carbide sintering and hardening,1117,17,False
+T03.04,T03.04.02,3,T03,"Slag grinding, tailings and cement powders",1307,16,False
+T03.04,T03.04.03,3,T03,Raw-material preparation and dispersing agents,2602,16,False
+T03.04,T03.04.04,3,T03,"Sand, silica aggregates and mortar formulations",877,15,False
+T03.04,T03.04.05,3,T03,"Coal slurries, lime calcination and rotary kilns",637,10,False
+T03.04,T03.04.06,3,T03,"Fly ash, red mud and desulfurized gypsum",486,9,False
+T03.04,T03.04.R,3,T03,Residual particulate solids and regeneration terminology,1966,21,True
+T03.05,T03.05.01,3,T03,"Fractionation, distillation and material pellets",1292,20,False
+T03.05,T03.05.02,3,T03,Pyrolysis feedstocks and hydrocarbon cracking,1994,19,False
+T03.05,T03.05.03,3,T03,Liquid mixing and solid-liquid separation,3256,17,False
+T03.05,T03.05.04,3,T03,Plastic-waste streams and chemical recycling,2750,16,False
+T03.05,T03.05.05,3,T03,"Lubricating oils, greases and oil-pump equipment",1086,13,False
+T03.06,T03.06.01,3,T03,Activated-carbon adsorption and contact treatment,1612,23,False
+T03.06,T03.06.02,3,T03,"Steam conversion, methane and syngas pathways",1622,19,False
+T03.06,T03.06.03,3,T03,Hydrogen production and water electrolysis,1955,17,False
+T03.06,T03.06.04,3,T03,"Carbon dioxide, sorbents and sequestration",959,9,False
+T03.06,T03.06.R,3,T03,Residual carbonaceous gas and carbon-black terms,681,11,True
+T03.07,T03.07.01,3,T03,"Aluminum, copper and zinc alloy processing",2203,31,False
+T03.07,T03.07.02,3,T03,Ceramic reaction zones and reactive constituents,1665,19,False
+T03.07,T03.07.03,3,T03,"Molten-metal furnaces, casting and smelting",1991,18,False
+T03.08,T03.08.01,3,T03,"Bamboo, timber and economic-benefit descriptors",660,12,False
+T03.08,T03.08.02,3,T03,Industrial resource-use and utilization wording,666,12,False
+T03.08,T03.08.03,3,T03,Process reduction and withdrawal descriptors,871,12,False
+T03.08,T03.08.04,3,T03,Shredded by-products and waste-residue handling,543,10,False
+T03.08,T03.08.05,3,T03,Industrial pollution and secondary-emission wording,500,9,False
+T03.08,T03.08.R,3,T03,Residual ice and frozen-material terms,183,4,True
+T03.09,T03.09.01,3,T03,Catalytic oxidation and diesel-emission reduction,2591,31,False
+T03.09,T03.09.02,3,T03,Exhaust-gas recirculation and gas-stream treatment,1947,15,False
+T03.09,T03.09.03,3,T03,Tail-gas purification and pollutant removal,498,9,False
+T03.09,T03.09.R,3,T03,Residual gas-inlet and outlet terminology,111,3,True
+T04.01,T04.01.01,3,T04,Patterned dielectric deposition and substrates,2927,29,False
+T04.01,T04.01.02,3,T04,Flexible barrier films and packaging laminates,3658,26,False
+T04.01,T04.01.03,3,T04,"Semiconductor chips, wafers and transistor layers",1449,18,False
+T04.01,T04.01.04,3,T04,Adhesive bonding and pressure-sensitive layers,1180,15,False
+T04.01,T04.01.05,3,T04,Conductive coatings and capacitive materials,670,8,False
+T04.01,T04.01.R,3,T04,Residual insulation-thickness and thermal barriers,776,9,True
+T04.02,T04.02.01,3,T04,Cellulosic and glass-fiber mat fabrication,2506,15,False
+T04.02,T04.02.02,3,T04,Continuous web rolls and labeling systems,917,12,False
+T04.02,T04.02.03,3,T04,Nonwoven filaments and textile fabrics,734,12,False
+T04.02,T04.02.04,3,T04,Knitting needles and yarn manufacturing,612,10,False
+T04.02,T04.02.05,3,T04,Twisted strands and continuous bulk fibers,712,8,False
+T04.02,T04.02.06,3,T04,"Textile spinning, carpets and leather materials",508,8,False
+T04.02,T04.02.R,3,T04,"Residual paper pulp, wood and corrugated products",779,8,True
+T04.03,T04.03.01,3,T04,Recycled polyolefin and polypropylene blends,2325,28,False
+T04.03,T04.03.02,3,T04,Monomer chemistry and polymer depolymerization,1778,24,False
+T04.03,T04.03.03,3,T04,"PET, polyester resins and glycol modification",752,14,False
+T04.03,T04.03.R,3,T04,Residual compostable and biodegradable polymers,342,5,True
+T04.04,T04.04.01,3,T04,Fiber-reinforced wrapping and encapsulation,664,13,False
+T04.04,T04.04.02,3,T04,Structural spacers and thermal insulation,717,10,False
+T04.04,T04.04.03,3,T04,"Precast concrete, foundations and piles",954,9,False
+T04.04,T04.04.04,3,T04,Lightweight cementitious aggregates and stiffness,546,8,False
+T04.04,T04.04.05,3,T04,Nanoparticle-reinforced composite matrices,1154,8,False
+T04.04,T04.04.R,3,T04,Residual reinforced-concrete and building terms,817,9,True
+T04.05,T04.05.01,3,T04,"Curing, thermoset and thermoplastic resins",1120,14,False
+T04.05,T04.05.02,3,T04,Foamed and absorbent molded articles,1285,13,False
+T04.05,T04.05.03,3,T04,Stretch-blow molding and preforms,524,11,False
+T04.05,T04.05.04,3,T04,Elastomer deformation and stretchable articles,707,8,False
+T04.05,T04.05.R,3,T04,Residual injection molds and cavity terms,1034,7,True
+T04.06,T04.06.01,3,T04,Rolled sheet and sheet-material fabrication,1153,11,False
+T04.06,T04.06.02,3,T04,"Melt extrusion, granules and quenching",660,10,False
+T04.06,T04.06.03,3,T04,Additive manufacturing and material mixtures,1684,9,False
+T04.06,T04.06.04,3,T04,Joining and fabrication of sheet-metal pieces,693,8,False
+T04.06,T04.06.R,3,T04,"Residual die pressing, mandrels and punching",622,8,True
+T04.07,T04.07.01,3,T04,"Alcohol, alkyl and water-soluble chemical formulas",982,17,False
+T04.07,T04.07.02,3,T04,Amine and functional-group formulations,1345,12,False
+T04.07,T04.07.R,3,T04,Residual polyurethane foam and bio-based polyols,362,5,True
+T04.08,T04.08.01,3,T04,"Binder coatings, pigments and substrate deposition",1512,15,False
+T04.08,T04.08.02,3,T04,"Crystalline, amorphous and phase-change media",1165,10,False
+T04.08,T04.08.R,3,T04,Residual inkjet printing and interconnects,455,5,True
+T05.01,T05.01.01,3,T05,"Flow paths, gas-flow rate and fluid velocity",2278,16,False
+T05.01,T05.01.02,3,T05,"Control valves, valve seats and valve bodies",2333,15,False
+T05.01,T05.01.03,3,T05,"Inlet, outlet and fluid-conduit geometry",1559,12,False
+T05.01,T05.01.04,3,T05,Pressure-relief diaphragms and gauges,1244,10,False
+T05.01,T05.01.05,3,T05,"Turbulence, pressure excess and flow instability",589,9,False
+T05.01,T05.01.06,3,T05,"Pumps, reservoirs and pressurized fluid supply",2129,9,False
+T05.01,T05.01.R,3,T05,"Residual hydraulic ports, passages and check valves",2159,23,True
+T05.02,T05.02.01,3,T05,Heating elements and temperature regulation,2414,19,False
+T05.02,T05.02.02,3,T05,Heat exchangers and thermal circulation,1314,11,False
+T05.02,T05.02.03,3,T05,"Coolants, radiators and evaporative cooling",919,10,False
+T05.02,T05.02.04,3,T05,"Condensers, evaporators and refrigeration loops",452,8,False
+T05.02,T05.02.R,3,T05,"Residual tubes, heat sinks and transfer fins",1668,14,True
+T05.03,T05.03.01,3,T05,Radial tire geometry and pneumatic contours,1979,16,False
+T05.03,T05.03.02,3,T05,"Tire rubber, tread, bead and carcass construction",940,10,False
+T05.03,T05.03.03,3,T05,Air-maintenance tire pumps and valve stems,476,9,False
+T05.03,T05.03.04,3,T05,Self-inflating tire passages and regulators,497,9,False
+T05.03,T05.03.05,3,T05,Tire sidewall grooves and rolling footprint,1797,9,False
+T05.03,T05.03.06,3,T05,Radially inward and outward tire extensions,434,8,False
+T05.05,T05.05.01,3,T05,"Fans, ducts and ventilation airflow",2215,25,False
+T05.05,T05.05.02,3,T05,Gas turbines and diffusers,687,9,False
+T05.05,T05.05.03,3,T05,"Centrifugal compressors, impellers and vanes",802,8,False
+T05.05,T05.05.R,3,T05,Residual compressed-air and air-conditioning terms,550,9,True
+T05.06,T05.06.01,3,T05,Fuel-injection metering and injector orifices,2125,23,False
+T05.06,T05.06.02,3,T05,Spray nozzles and droplet formation,817,8,False
+T05.06,T05.06.R,3,T05,Residual fuel-air mixture terminology,70,2,True
+T05.07,T05.07.01,3,T05,"Air-intake manifolds, carburetors and venturis",716,13,False
+T05.07,T05.07.02,3,T05,"Intake air, swirl and cylinder charge",855,10,False
+T05.07,T05.07.R,3,T05,Residual throttles and idle-control terms,357,6,True
+T06.01,T06.01.01,3,T06,Lithium-ion batteries and graphite electrodes,1204,14,False
+T06.01,T06.01.02,3,T06,Active energy elements and device cavities,1771,12,False
+T06.01,T06.01.03,3,T06,Electrode arrays and collectors,1651,12,False
+T06.01,T06.01.04,3,T06,"Battery packs, charging and cell integration",817,10,False
+T06.01,T06.01.05,3,T06,"Cathodes, anodes and electrochemical cells",1041,8,False
+T06.02,T06.02.01,3,T06,"Coils, transformer windings and inductive cores",1845,16,False
+T06.02,T06.02.02,3,T06,"Magnetic fields, flux and electromagnets",1340,11,False
+T06.02,T06.02.03,3,T06,Permanent magnets and magnetic forces,651,11,False
+T06.02,T06.02.04,3,T06,"Electric motors, rotors and stators",1416,9,False
+T06.02,T06.02.R,3,T06,"Residual pole, armature and solenoid terms",427,6,True
+T06.03,T06.03.01,3,T06,Electrical power distribution and supply voltages,1897,13,False
+T06.03,T06.03.02,3,T06,"Energy storage, flywheels and energy conversion",1514,12,False
+T06.03,T06.03.03,3,T06,Wind turbines and electrical generators,940,10,False
+T06.03,T06.03.04,3,T06,Thermal management and material expansion,770,8,False
+T06.03,T06.03.R,3,T06,Residual electricity and exothermic generation terms,608,7,True
+T06.04,T06.04.01,3,T06,"Electrical contacts, terminals and switching",2441,19,False
+T06.04,T06.04.02,3,T06,"Conductors, cables and wire shielding",1323,12,False
+T07.01,T07.01.01,3,T07,DNA/RNA probes and molecular species,1983,30,False
+T07.01,T07.01.02,3,T07,"Recombinant hosts, vectors and degradation enzymes",1679,24,False
+T07.01,T07.01.03,3,T07,Engineered bacterial cells and gene modification,1794,22,False
+T07.01,T07.01.04,3,T07,"Nucleic acids, fatty acids and pathway engineering",1086,18,False
+T07.01,T07.01.05,3,T07,"Polypeptide, nucleotide and amino-acid sequences",678,13,False
+T07.02,T07.02.01,3,T07,Controlled-release agents and therapeutic treatment,3019,34,False
+T07.02,T07.02.02,3,T07,"Peptides, viral infection and immune responses",948,17,False
+T07.02,T07.02.03,3,T07,Naturally occurring derivatives and inhibitory isolation,514,8,False
+T07.02,T07.02.R,3,T07,Residual therapeutic problem-statement wording,76,3,True
+T07.03,T07.03.01,3,T07,"Protein diagnostics, tissue assays and antibodies",1759,18,False
+T07.03,T07.03.02,3,T07,Tissue repair and biological activation,397,8,False
+T07.03,T07.03.R,3,T07,Residual protein binding-domain descriptors,318,4,True
+T08.01,T08.01.01,3,T08,Infrared/ultraviolet radiation and disinfection,812,9,False
+T08.01,T08.01.02,3,T08,"Lamps, ceiling fixtures and lighting equipment",568,8,False
+T08.01,T08.01.03,3,T08,Illumination intensity and light scattering,1060,8,False
+T08.01,T08.01.R,3,T08,Residual LED and light-emitting diodes,269,5,True

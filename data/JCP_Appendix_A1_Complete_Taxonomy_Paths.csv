@@ -1,0 +1,191 @@
+﻿Hierarchy IDs,Root domain,Level 2 domain,Level 3 technology,Terminal ID,Depth,Phrases,Patent units
+T01 / T01.01,"Mechanical assemblies, mobility equipment and apparatus","Structural housings, plates and mounting assemblies",—,T01.01,2,1044,32170
+T01 / T01.02 / T01.02.01,"Mechanical assemblies, mobility equipment and apparatus","Vehicle drivetrains, shafts and moving mechanisms","Shaft, gear and transmission couplings",T01.02.01,3,113,8425
+T01 / T01.02 / T01.02.02,"Mechanical assemblies, mobility equipment and apparatus","Vehicle drivetrains, shafts and moving mechanisms","Vehicle wheels, suspension and motor assemblies",T01.02.02,3,107,8309
+T01 / T01.02 / T01.02.03,"Mechanical assemblies, mobility equipment and apparatus","Vehicle drivetrains, shafts and moving mechanisms","Cam, actuator and variable-motion mechanisms",T01.02.03,3,80,6216
+T01 / T01.02 / T01.02.04,"Mechanical assemblies, mobility equipment and apparatus","Vehicle drivetrains, shafts and moving mechanisms",Pivoting alignment racks and exercise mechanisms,T01.02.04,3,40,2520
+T01 / T01.03 / T01.03.01,"Mechanical assemblies, mobility equipment and apparatus","Aircraft bodies, seating and floating structures","Aircraft bodies, seats and wing structures",T01.03.01,3,38,3868
+T01 / T01.03 / T01.03.02,"Mechanical assemblies, mobility equipment and apparatus","Aircraft bodies, seating and floating structures",Buoyant marine hulls and offshore deployment,T01.03.02,3,21,856
+T01 / T01.03 / T01.03.R,"Mechanical assemblies, mobility equipment and apparatus","Aircraft bodies, seating and floating structures",Residual unmanned aerial-vehicle terminology,T01.03.R*,3,4,126
+T01 / T01.04,"Mechanical assemblies, mobility equipment and apparatus",Washing and drying machinery,—,T01.04,2,21,2170
+T01 / T01.R,"Mechanical assemblies, mobility equipment and apparatus",Residual mechanical-connection phrasing,—,T01.R*,2,2,126
+T02,"Digital processing, sensing and information systems",—,—,T02,1,1009,30322
+T03 / T03.01 / T03.01.01,"Industrial materials, process streams and resource treatment","Water, wastewater and fluid-treatment infrastructure","Wastewater, sewage sludge and drying treatments",T03.01.01,3,32,2382
+T03 / T03.01 / T03.01.02,"Industrial materials, process streams and resource treatment","Water, wastewater and fluid-treatment infrastructure","Water pipelines, tanks and thermal circulation",T03.01.02,3,32,3143
+T03 / T03.01 / T03.01.03,"Industrial materials, process streams and resource treatment","Water, wastewater and fluid-treatment infrastructure","Flue-gas absorption, dust removal and heat recovery",T03.01.03,3,31,1736
+T03 / T03.01 / T03.01.04,"Industrial materials, process streams and resource treatment","Water, wastewater and fluid-treatment infrastructure",Municipal refuse collection and disposal infrastructure,T03.01.04,3,15,976
+T03 / T03.01 / T03.01.05,"Industrial materials, process streams and resource treatment","Water, wastewater and fluid-treatment infrastructure",Reverse-osmosis membranes and desalination,T03.01.05,3,12,808
+T03 / T03.02 / T03.02.01,"Industrial materials, process streams and resource treatment","Agricultural biomass, soil and biological conversion",Microbial fermentation and ethanol bioprocesses,T03.02.01,3,17,999
+T03 / T03.02 / T03.02.02,"Industrial materials, process streams and resource treatment","Agricultural biomass, soil and biological conversion","Crop cultivation, irrigation and ecological planting",T03.02.02,3,14,701
+T03 / T03.02 / T03.02.03,"Industrial materials, process streams and resource treatment","Agricultural biomass, soil and biological conversion","Algal growth, aquaculture and nutrient use",T03.02.03,3,13,980
+T03 / T03.02 / T03.02.04,"Industrial materials, process streams and resource treatment","Agricultural biomass, soil and biological conversion","Culture media, fungal cultivation and harvesting",T03.02.04,3,12,942
+T03 / T03.02 / T03.02.05,"Industrial materials, process streams and resource treatment","Agricultural biomass, soil and biological conversion","Livestock, manure and poultry-derived streams",T03.02.05,3,11,460
+T03 / T03.02 / T03.02.06,"Industrial materials, process streams and resource treatment","Agricultural biomass, soil and biological conversion","Rice straw, grain residues and seedling substrates",T03.02.06,3,11,414
+T03 / T03.02 / T03.02.07,"Industrial materials, process streams and resource treatment","Agricultural biomass, soil and biological conversion",Fruit and vegetable preparation processes,T03.02.07,3,11,498
+T03 / T03.02 / T03.02.08,"Industrial materials, process streams and resource treatment","Agricultural biomass, soil and biological conversion",Hydrothermal biomass conversion and biochar,T03.02.08,3,10,737
+T03 / T03.02 / T03.02.09,"Industrial materials, process streams and resource treatment","Agricultural biomass, soil and biological conversion","Organic fertilizers, soil and waste amendments",T03.02.09,3,10,939
+T03 / T03.02 / T03.02.R,"Industrial materials, process streams and resource treatment","Agricultural biomass, soil and biological conversion","Residual biogas, anaerobic digestion and separation terms",T03.02.R*,3,11,505
+T03 / T03.03 / T03.03.01,"Industrial materials, process streams and resource treatment","Aqueous extraction, solvent recovery and metal separation",Metal-ion extraction and heavy-metal recovery,T03.03.01,3,26,2090
+T03 / T03.03 / T03.03.02,"Industrial materials, process streams and resource treatment","Aqueous extraction, solvent recovery and metal separation",Spent-solvent extraction and precipitation,T03.03.02,3,16,1170
+T03 / T03.03 / T03.03.03,"Industrial materials, process streams and resource treatment","Aqueous extraction, solvent recovery and metal separation","Acidic leaching, filtration and stripping",T03.03.03,3,15,1223
+T03 / T03.03 / T03.03.04,"Industrial materials, process streams and resource treatment","Aqueous extraction, solvent recovery and metal separation","Calcium, sodium and sulfate salt conversion",T03.03.04,3,15,1002
+T03 / T03.03 / T03.03.05,"Industrial materials, process streams and resource treatment","Aqueous extraction, solvent recovery and metal separation",Titanium dioxide and waste-acid hydrolysis,T03.03.05,3,11,427
+T03 / T03.03 / T03.03.06,"Industrial materials, process streams and resource treatment","Aqueous extraction, solvent recovery and metal separation","Brine concentration, evaporation and crystallization",T03.03.06,3,10,607
+T03 / T03.03 / T03.03.07,"Industrial materials, process streams and resource treatment","Aqueous extraction, solvent recovery and metal separation","Chloride, PVC and hydrochloric by-products",T03.03.07,3,8,328
+T03 / T03.03 / T03.03.R,"Industrial materials, process streams and resource treatment","Aqueous extraction, solvent recovery and metal separation","Residual rare-earth, phosphate and alkaline chemistry",T03.03.R*,3,15,723
+T03 / T03.04 / T03.04.01,"Industrial materials, process streams and resource treatment","Solid minerals, slags and construction feedstocks",Silicon-carbide sintering and hardening,T03.04.01,3,17,1117
+T03 / T03.04 / T03.04.02,"Industrial materials, process streams and resource treatment","Solid minerals, slags and construction feedstocks","Slag grinding, tailings and cement powders",T03.04.02,3,16,1307
+T03 / T03.04 / T03.04.03,"Industrial materials, process streams and resource treatment","Solid minerals, slags and construction feedstocks",Raw-material preparation and dispersing agents,T03.04.03,3,16,2602
+T03 / T03.04 / T03.04.04,"Industrial materials, process streams and resource treatment","Solid minerals, slags and construction feedstocks","Sand, silica aggregates and mortar formulations",T03.04.04,3,15,877
+T03 / T03.04 / T03.04.05,"Industrial materials, process streams and resource treatment","Solid minerals, slags and construction feedstocks","Coal slurries, lime calcination and rotary kilns",T03.04.05,3,10,637
+T03 / T03.04 / T03.04.06,"Industrial materials, process streams and resource treatment","Solid minerals, slags and construction feedstocks","Fly ash, red mud and desulfurized gypsum",T03.04.06,3,9,486
+T03 / T03.04 / T03.04.R,"Industrial materials, process streams and resource treatment","Solid minerals, slags and construction feedstocks",Residual particulate solids and regeneration terminology,T03.04.R*,3,21,1966
+T03 / T03.05 / T03.05.01,"Industrial materials, process streams and resource treatment","Mixed waste, plastic streams and liquid processing","Fractionation, distillation and material pellets",T03.05.01,3,20,1292
+T03 / T03.05 / T03.05.02,"Industrial materials, process streams and resource treatment","Mixed waste, plastic streams and liquid processing",Pyrolysis feedstocks and hydrocarbon cracking,T03.05.02,3,19,1994
+T03 / T03.05 / T03.05.03,"Industrial materials, process streams and resource treatment","Mixed waste, plastic streams and liquid processing",Liquid mixing and solid-liquid separation,T03.05.03,3,17,3256
+T03 / T03.05 / T03.05.04,"Industrial materials, process streams and resource treatment","Mixed waste, plastic streams and liquid processing",Plastic-waste streams and chemical recycling,T03.05.04,3,16,2750
+T03 / T03.05 / T03.05.05,"Industrial materials, process streams and resource treatment","Mixed waste, plastic streams and liquid processing","Lubricating oils, greases and oil-pump equipment",T03.05.05,3,13,1086
+T03 / T03.06 / T03.06.01,"Industrial materials, process streams and resource treatment","Carbon feedstocks, syngas and hydrogen conversion",Activated-carbon adsorption and contact treatment,T03.06.01,3,23,1612
+T03 / T03.06 / T03.06.02,"Industrial materials, process streams and resource treatment","Carbon feedstocks, syngas and hydrogen conversion","Steam conversion, methane and syngas pathways",T03.06.02,3,19,1622
+T03 / T03.06 / T03.06.03,"Industrial materials, process streams and resource treatment","Carbon feedstocks, syngas and hydrogen conversion",Hydrogen production and water electrolysis,T03.06.03,3,17,1955
+T03 / T03.06 / T03.06.04,"Industrial materials, process streams and resource treatment","Carbon feedstocks, syngas and hydrogen conversion","Carbon dioxide, sorbents and sequestration",T03.06.04,3,9,959
+T03 / T03.06 / T03.06.R,"Industrial materials, process streams and resource treatment","Carbon feedstocks, syngas and hydrogen conversion",Residual carbonaceous gas and carbon-black terms,T03.06.R*,3,11,681
+T03 / T03.07 / T03.07.01,"Industrial materials, process streams and resource treatment","Metallurgy, alloys and high-temperature reactions","Aluminum, copper and zinc alloy processing",T03.07.01,3,31,2203
+T03 / T03.07 / T03.07.02,"Industrial materials, process streams and resource treatment","Metallurgy, alloys and high-temperature reactions",Ceramic reaction zones and reactive constituents,T03.07.02,3,19,1665
+T03 / T03.07 / T03.07.03,"Industrial materials, process streams and resource treatment","Metallurgy, alloys and high-temperature reactions","Molten-metal furnaces, casting and smelting",T03.07.03,3,18,1991
+T03 / T03.08 / T03.08.01,"Industrial materials, process streams and resource treatment",Resource-utilization claims and residue descriptors,"Bamboo, timber and economic-benefit descriptors",T03.08.01,3,12,660
+T03 / T03.08 / T03.08.02,"Industrial materials, process streams and resource treatment",Resource-utilization claims and residue descriptors,Industrial resource-use and utilization wording,T03.08.02,3,12,666
+T03 / T03.08 / T03.08.03,"Industrial materials, process streams and resource treatment",Resource-utilization claims and residue descriptors,Process reduction and withdrawal descriptors,T03.08.03,3,12,871
+T03 / T03.08 / T03.08.04,"Industrial materials, process streams and resource treatment",Resource-utilization claims and residue descriptors,Shredded by-products and waste-residue handling,T03.08.04,3,10,543
+T03 / T03.08 / T03.08.05,"Industrial materials, process streams and resource treatment",Resource-utilization claims and residue descriptors,Industrial pollution and secondary-emission wording,T03.08.05,3,9,500
+T03 / T03.08 / T03.08.R,"Industrial materials, process streams and resource treatment",Resource-utilization claims and residue descriptors,Residual ice and frozen-material terms,T03.08.R*,3,4,183
+T03 / T03.09 / T03.09.01,"Industrial materials, process streams and resource treatment","Exhaust gases, catalytic treatment and purification",Catalytic oxidation and diesel-emission reduction,T03.09.01,3,31,2591
+T03 / T03.09 / T03.09.02,"Industrial materials, process streams and resource treatment","Exhaust gases, catalytic treatment and purification",Exhaust-gas recirculation and gas-stream treatment,T03.09.02,3,15,1947
+T03 / T03.09 / T03.09.03,"Industrial materials, process streams and resource treatment","Exhaust gases, catalytic treatment and purification",Tail-gas purification and pollutant removal,T03.09.03,3,9,498
+T03 / T03.09 / T03.09.R,"Industrial materials, process streams and resource treatment","Exhaust gases, catalytic treatment and purification",Residual gas-inlet and outlet terminology,T03.09.R*,3,3,111
+T03 / T03.10,"Industrial materials, process streams and resource treatment",Porous media and particulate filtration,—,T03.10,2,25,1821
+T03 / T03.11,"Industrial materials, process streams and resource treatment",Fuel burners and staged combustion equipment,—,T03.11,2,17,1419
+T03 / T03.12,"Industrial materials, process streams and resource treatment",Fluidized beds and contaminant-reactive treatment,—,T03.12,2,15,902
+T04 / T04.01 / T04.01.01,"Polymer, composite and manufactured material systems","Functional films, conductive layers and substrates",Patterned dielectric deposition and substrates,T04.01.01,3,29,2927
+T04 / T04.01 / T04.01.02,"Polymer, composite and manufactured material systems","Functional films, conductive layers and substrates",Flexible barrier films and packaging laminates,T04.01.02,3,26,3658
+T04 / T04.01 / T04.01.03,"Polymer, composite and manufactured material systems","Functional films, conductive layers and substrates","Semiconductor chips, wafers and transistor layers",T04.01.03,3,18,1449
+T04 / T04.01 / T04.01.04,"Polymer, composite and manufactured material systems","Functional films, conductive layers and substrates",Adhesive bonding and pressure-sensitive layers,T04.01.04,3,15,1180
+T04 / T04.01 / T04.01.05,"Polymer, composite and manufactured material systems","Functional films, conductive layers and substrates",Conductive coatings and capacitive materials,T04.01.05,3,8,670
+T04 / T04.01 / T04.01.R,"Polymer, composite and manufactured material systems","Functional films, conductive layers and substrates",Residual insulation-thickness and thermal barriers,T04.01.R*,3,9,776
+T04 / T04.02 / T04.02.01,"Polymer, composite and manufactured material systems","Fiber, textile and web-based materials",Cellulosic and glass-fiber mat fabrication,T04.02.01,3,15,2506
+T04 / T04.02 / T04.02.02,"Polymer, composite and manufactured material systems","Fiber, textile and web-based materials",Continuous web rolls and labeling systems,T04.02.02,3,12,917
+T04 / T04.02 / T04.02.03,"Polymer, composite and manufactured material systems","Fiber, textile and web-based materials",Nonwoven filaments and textile fabrics,T04.02.03,3,12,734
+T04 / T04.02 / T04.02.04,"Polymer, composite and manufactured material systems","Fiber, textile and web-based materials",Knitting needles and yarn manufacturing,T04.02.04,3,10,612
+T04 / T04.02 / T04.02.05,"Polymer, composite and manufactured material systems","Fiber, textile and web-based materials",Twisted strands and continuous bulk fibers,T04.02.05,3,8,712
+T04 / T04.02 / T04.02.06,"Polymer, composite and manufactured material systems","Fiber, textile and web-based materials","Textile spinning, carpets and leather materials",T04.02.06,3,8,508
+T04 / T04.02 / T04.02.R,"Polymer, composite and manufactured material systems","Fiber, textile and web-based materials","Residual paper pulp, wood and corrugated products",T04.02.R*,3,8,779
+T04 / T04.03 / T04.03.01,"Polymer, composite and manufactured material systems","Recycled polymers, polyester and plastic chemistry",Recycled polyolefin and polypropylene blends,T04.03.01,3,28,2325
+T04 / T04.03 / T04.03.02,"Polymer, composite and manufactured material systems","Recycled polymers, polyester and plastic chemistry",Monomer chemistry and polymer depolymerization,T04.03.02,3,24,1778
+T04 / T04.03 / T04.03.03,"Polymer, composite and manufactured material systems","Recycled polymers, polyester and plastic chemistry","PET, polyester resins and glycol modification",T04.03.03,3,14,752
+T04 / T04.03 / T04.03.R,"Polymer, composite and manufactured material systems","Recycled polymers, polyester and plastic chemistry",Residual compostable and biodegradable polymers,T04.03.R*,3,5,342
+T04 / T04.04 / T04.04.01,"Polymer, composite and manufactured material systems","Concrete, structural composites and thermal insulation",Fiber-reinforced wrapping and encapsulation,T04.04.01,3,13,664
+T04 / T04.04 / T04.04.02,"Polymer, composite and manufactured material systems","Concrete, structural composites and thermal insulation",Structural spacers and thermal insulation,T04.04.02,3,10,717
+T04 / T04.04 / T04.04.03,"Polymer, composite and manufactured material systems","Concrete, structural composites and thermal insulation","Precast concrete, foundations and piles",T04.04.03,3,9,954
+T04 / T04.04 / T04.04.04,"Polymer, composite and manufactured material systems","Concrete, structural composites and thermal insulation",Lightweight cementitious aggregates and stiffness,T04.04.04,3,8,546
+T04 / T04.04 / T04.04.05,"Polymer, composite and manufactured material systems","Concrete, structural composites and thermal insulation",Nanoparticle-reinforced composite matrices,T04.04.05,3,8,1154
+T04 / T04.04 / T04.04.R,"Polymer, composite and manufactured material systems","Concrete, structural composites and thermal insulation",Residual reinforced-concrete and building terms,T04.04.R*,3,9,817
+T04 / T04.05 / T04.05.01,"Polymer, composite and manufactured material systems","Resins, molding and elastomeric articles","Curing, thermoset and thermoplastic resins",T04.05.01,3,14,1120
+T04 / T04.05 / T04.05.02,"Polymer, composite and manufactured material systems","Resins, molding and elastomeric articles",Foamed and absorbent molded articles,T04.05.02,3,13,1285
+T04 / T04.05 / T04.05.03,"Polymer, composite and manufactured material systems","Resins, molding and elastomeric articles",Stretch-blow molding and preforms,T04.05.03,3,11,524
+T04 / T04.05 / T04.05.04,"Polymer, composite and manufactured material systems","Resins, molding and elastomeric articles",Elastomer deformation and stretchable articles,T04.05.04,3,8,707
+T04 / T04.05 / T04.05.R,"Polymer, composite and manufactured material systems","Resins, molding and elastomeric articles",Residual injection molds and cavity terms,T04.05.R*,3,7,1034
+T04 / T04.06 / T04.06.01,"Polymer, composite and manufactured material systems","Sheet fabrication, extrusion and additive manufacturing",Rolled sheet and sheet-material fabrication,T04.06.01,3,11,1153
+T04 / T04.06 / T04.06.02,"Polymer, composite and manufactured material systems","Sheet fabrication, extrusion and additive manufacturing","Melt extrusion, granules and quenching",T04.06.02,3,10,660
+T04 / T04.06 / T04.06.03,"Polymer, composite and manufactured material systems","Sheet fabrication, extrusion and additive manufacturing",Additive manufacturing and material mixtures,T04.06.03,3,9,1684
+T04 / T04.06 / T04.06.04,"Polymer, composite and manufactured material systems","Sheet fabrication, extrusion and additive manufacturing",Joining and fabrication of sheet-metal pieces,T04.06.04,3,8,693
+T04 / T04.06 / T04.06.R,"Polymer, composite and manufactured material systems","Sheet fabrication, extrusion and additive manufacturing","Residual die pressing, mandrels and punching",T04.06.R*,3,8,622
+T04 / T04.07 / T04.07.01,"Polymer, composite and manufactured material systems",Functional chemical compounds and polymer foams,"Alcohol, alkyl and water-soluble chemical formulas",T04.07.01,3,17,982
+T04 / T04.07 / T04.07.02,"Polymer, composite and manufactured material systems",Functional chemical compounds and polymer foams,Amine and functional-group formulations,T04.07.02,3,12,1345
+T04 / T04.07 / T04.07.R,"Polymer, composite and manufactured material systems",Functional chemical compounds and polymer foams,Residual polyurethane foam and bio-based polyols,T04.07.R*,3,5,362
+T04 / T04.08 / T04.08.01,"Polymer, composite and manufactured material systems","Coatings, phase-change formulations and printing","Binder coatings, pigments and substrate deposition",T04.08.01,3,15,1512
+T04 / T04.08 / T04.08.02,"Polymer, composite and manufactured material systems","Coatings, phase-change formulations and printing","Crystalline, amorphous and phase-change media",T04.08.02,3,10,1165
+T04 / T04.08 / T04.08.R,"Polymer, composite and manufactured material systems","Coatings, phase-change formulations and printing",Residual inkjet printing and interconnects,T04.08.R*,3,5,455
+T04 / T04.09,"Polymer, composite and manufactured material systems",High-strength and corrosion-resistant steels,—,T04.09,2,28,2178
+T04 / T04.10,"Polymer, composite and manufactured material systems","Residual stress, fatigue and material lifetime",—,T04.10,2,22,1419
+T04 / T04.11,"Polymer, composite and manufactured material systems","Printed circuit boards, pads and finishing",—,T04.11,2,17,1501
+T04 / T04.12,"Polymer, composite and manufactured material systems","Microfluidic wells, fillers and assay surfaces",—,T04.12,2,16,1242
+T05 / T05.01 / T05.01.01,"Fluid handling, thermal equipment and combustion systems","Valves, pumps and fluid-flow controls","Flow paths, gas-flow rate and fluid velocity",T05.01.01,3,16,2278
+T05 / T05.01 / T05.01.02,"Fluid handling, thermal equipment and combustion systems","Valves, pumps and fluid-flow controls","Control valves, valve seats and valve bodies",T05.01.02,3,15,2333
+T05 / T05.01 / T05.01.03,"Fluid handling, thermal equipment and combustion systems","Valves, pumps and fluid-flow controls","Inlet, outlet and fluid-conduit geometry",T05.01.03,3,12,1559
+T05 / T05.01 / T05.01.04,"Fluid handling, thermal equipment and combustion systems","Valves, pumps and fluid-flow controls",Pressure-relief diaphragms and gauges,T05.01.04,3,10,1244
+T05 / T05.01 / T05.01.05,"Fluid handling, thermal equipment and combustion systems","Valves, pumps and fluid-flow controls","Turbulence, pressure excess and flow instability",T05.01.05,3,9,589
+T05 / T05.01 / T05.01.06,"Fluid handling, thermal equipment and combustion systems","Valves, pumps and fluid-flow controls","Pumps, reservoirs and pressurized fluid supply",T05.01.06,3,9,2129
+T05 / T05.01 / T05.01.R,"Fluid handling, thermal equipment and combustion systems","Valves, pumps and fluid-flow controls","Residual hydraulic ports, passages and check valves",T05.01.R*,3,23,2159
+T05 / T05.02 / T05.02.01,"Fluid handling, thermal equipment and combustion systems","Heat transfer, cooling and heating equipment",Heating elements and temperature regulation,T05.02.01,3,19,2414
+T05 / T05.02 / T05.02.02,"Fluid handling, thermal equipment and combustion systems","Heat transfer, cooling and heating equipment",Heat exchangers and thermal circulation,T05.02.02,3,11,1314
+T05 / T05.02 / T05.02.03,"Fluid handling, thermal equipment and combustion systems","Heat transfer, cooling and heating equipment","Coolants, radiators and evaporative cooling",T05.02.03,3,10,919
+T05 / T05.02 / T05.02.04,"Fluid handling, thermal equipment and combustion systems","Heat transfer, cooling and heating equipment","Condensers, evaporators and refrigeration loops",T05.02.04,3,8,452
+T05 / T05.02 / T05.02.R,"Fluid handling, thermal equipment and combustion systems","Heat transfer, cooling and heating equipment","Residual tubes, heat sinks and transfer fins",T05.02.R*,3,14,1668
+T05 / T05.03 / T05.03.01,"Fluid handling, thermal equipment and combustion systems","Tire structures, tread and inflation devices",Radial tire geometry and pneumatic contours,T05.03.01,3,16,1979
+T05 / T05.03 / T05.03.02,"Fluid handling, thermal equipment and combustion systems","Tire structures, tread and inflation devices","Tire rubber, tread, bead and carcass construction",T05.03.02,3,10,940
+T05 / T05.03 / T05.03.03,"Fluid handling, thermal equipment and combustion systems","Tire structures, tread and inflation devices",Air-maintenance tire pumps and valve stems,T05.03.03,3,9,476
+T05 / T05.03 / T05.03.04,"Fluid handling, thermal equipment and combustion systems","Tire structures, tread and inflation devices",Self-inflating tire passages and regulators,T05.03.04,3,9,497
+T05 / T05.03 / T05.03.05,"Fluid handling, thermal equipment and combustion systems","Tire structures, tread and inflation devices",Tire sidewall grooves and rolling footprint,T05.03.05,3,9,1797
+T05 / T05.03 / T05.03.06,"Fluid handling, thermal equipment and combustion systems","Tire structures, tread and inflation devices",Radially inward and outward tire extensions,T05.03.06,3,8,434
+T05 / T05.04,"Fluid handling, thermal equipment and combustion systems",Internal-combustion cylinders and engine mechanisms,—,T05.04,2,54,6379
+T05 / T05.05 / T05.05.01,"Fluid handling, thermal equipment and combustion systems","Air movement, turbines and compressor systems","Fans, ducts and ventilation airflow",T05.05.01,3,25,2215
+T05 / T05.05 / T05.05.02,"Fluid handling, thermal equipment and combustion systems","Air movement, turbines and compressor systems",Gas turbines and diffusers,T05.05.02,3,9,687
+T05 / T05.05 / T05.05.03,"Fluid handling, thermal equipment and combustion systems","Air movement, turbines and compressor systems","Centrifugal compressors, impellers and vanes",T05.05.03,3,8,802
+T05 / T05.05 / T05.05.R,"Fluid handling, thermal equipment and combustion systems","Air movement, turbines and compressor systems",Residual compressed-air and air-conditioning terms,T05.05.R*,3,9,550
+T05 / T05.06 / T05.06.01,"Fluid handling, thermal equipment and combustion systems","Fuel injectors, nozzles and spray metering",Fuel-injection metering and injector orifices,T05.06.01,3,23,2125
+T05 / T05.06 / T05.06.02,"Fluid handling, thermal equipment and combustion systems","Fuel injectors, nozzles and spray metering",Spray nozzles and droplet formation,T05.06.02,3,8,817
+T05 / T05.06 / T05.06.R,"Fluid handling, thermal equipment and combustion systems","Fuel injectors, nozzles and spray metering",Residual fuel-air mixture terminology,T05.06.R*,3,2,70
+T05 / T05.07 / T05.07.01,"Fluid handling, thermal equipment and combustion systems","Air intakes, manifolds and throttle systems","Air-intake manifolds, carburetors and venturis",T05.07.01,3,13,716
+T05 / T05.07 / T05.07.02,"Fluid handling, thermal equipment and combustion systems","Air intakes, manifolds and throttle systems","Intake air, swirl and cylinder charge",T05.07.02,3,10,855
+T05 / T05.07 / T05.07.R,"Fluid handling, thermal equipment and combustion systems","Air intakes, manifolds and throttle systems",Residual throttles and idle-control terms,T05.07.R*,3,6,357
+T05 / T05.08,"Fluid handling, thermal equipment and combustion systems",Reactor vessels and nuclear containment equipment,—,T05.08,2,28,2486
+T05 / T05.09,"Fluid handling, thermal equipment and combustion systems",Interior-exterior passage geometry,—,T05.09,2,13,1291
+T05 / T05.R,"Fluid handling, thermal equipment and combustion systems",Residual problem-statement wording,—,T05.R*,2,2,54
+T06 / T06.01 / T06.01.01,"Electrical energy, magnetic machinery and connected devices","Batteries, electrodes and electrochemical cells",Lithium-ion batteries and graphite electrodes,T06.01.01,3,14,1204
+T06 / T06.01 / T06.01.02,"Electrical energy, magnetic machinery and connected devices","Batteries, electrodes and electrochemical cells",Active energy elements and device cavities,T06.01.02,3,12,1771
+T06 / T06.01 / T06.01.03,"Electrical energy, magnetic machinery and connected devices","Batteries, electrodes and electrochemical cells",Electrode arrays and collectors,T06.01.03,3,12,1651
+T06 / T06.01 / T06.01.04,"Electrical energy, magnetic machinery and connected devices","Batteries, electrodes and electrochemical cells","Battery packs, charging and cell integration",T06.01.04,3,10,817
+T06 / T06.01 / T06.01.05,"Electrical energy, magnetic machinery and connected devices","Batteries, electrodes and electrochemical cells","Cathodes, anodes and electrochemical cells",T06.01.05,3,8,1041
+T06 / T06.02 / T06.02.01,"Electrical energy, magnetic machinery and connected devices","Electric machines, magnetic cores and windings","Coils, transformer windings and inductive cores",T06.02.01,3,16,1845
+T06 / T06.02 / T06.02.02,"Electrical energy, magnetic machinery and connected devices","Electric machines, magnetic cores and windings","Magnetic fields, flux and electromagnets",T06.02.02,3,11,1340
+T06 / T06.02 / T06.02.03,"Electrical energy, magnetic machinery and connected devices","Electric machines, magnetic cores and windings",Permanent magnets and magnetic forces,T06.02.03,3,11,651
+T06 / T06.02 / T06.02.04,"Electrical energy, magnetic machinery and connected devices","Electric machines, magnetic cores and windings","Electric motors, rotors and stators",T06.02.04,3,9,1416
+T06 / T06.02 / T06.02.R,"Electrical energy, magnetic machinery and connected devices","Electric machines, magnetic cores and windings","Residual pole, armature and solenoid terms",T06.02.R*,3,6,427
+T06 / T06.03 / T06.03.01,"Electrical energy, magnetic machinery and connected devices","Power supply, energy storage and generation",Electrical power distribution and supply voltages,T06.03.01,3,13,1897
+T06 / T06.03 / T06.03.02,"Electrical energy, magnetic machinery and connected devices","Power supply, energy storage and generation","Energy storage, flywheels and energy conversion",T06.03.02,3,12,1514
+T06 / T06.03 / T06.03.03,"Electrical energy, magnetic machinery and connected devices","Power supply, energy storage and generation",Wind turbines and electrical generators,T06.03.03,3,10,940
+T06 / T06.03 / T06.03.04,"Electrical energy, magnetic machinery and connected devices","Power supply, energy storage and generation",Thermal management and material expansion,T06.03.04,3,8,770
+T06 / T06.03 / T06.03.R,"Electrical energy, magnetic machinery and connected devices","Power supply, energy storage and generation",Residual electricity and exothermic generation terms,T06.03.R*,3,7,608
+T06 / T06.04 / T06.04.01,"Electrical energy, magnetic machinery and connected devices","Electrical connectors, conductors and switches","Electrical contacts, terminals and switching",T06.04.01,3,19,2441
+T06 / T06.04 / T06.04.02,"Electrical energy, magnetic machinery and connected devices","Electrical connectors, conductors and switches","Conductors, cables and wire shielding",T06.04.02,3,12,1323
+T06 / T06.05,"Electrical energy, magnetic machinery and connected devices",Spark-plug electrodes and ignition gaps,—,T06.05,2,22,1837
+T06 / T06.06,"Electrical energy, magnetic machinery and connected devices",Catheter drainage and pressure-control devices,—,T06.06,2,17,1011
+T06 / T06.07,"Electrical energy, magnetic machinery and connected devices",Magnetic-resonance imaging and pulse sequences,—,T06.07,2,17,1189
+T06 / T06.R,"Electrical energy, magnetic machinery and connected devices",Residual energy-conservation terminology,—,T06.R*,2,2,19
+T07 / T07.01 / T07.01.01,"Molecular biotechnology, diagnostics and therapeutics","Engineered cells, genes and biological sequences",DNA/RNA probes and molecular species,T07.01.01,3,30,1983
+T07 / T07.01 / T07.01.02,"Molecular biotechnology, diagnostics and therapeutics","Engineered cells, genes and biological sequences","Recombinant hosts, vectors and degradation enzymes",T07.01.02,3,24,1679
+T07 / T07.01 / T07.01.03,"Molecular biotechnology, diagnostics and therapeutics","Engineered cells, genes and biological sequences",Engineered bacterial cells and gene modification,T07.01.03,3,22,1794
+T07 / T07.01 / T07.01.04,"Molecular biotechnology, diagnostics and therapeutics","Engineered cells, genes and biological sequences","Nucleic acids, fatty acids and pathway engineering",T07.01.04,3,18,1086
+T07 / T07.01 / T07.01.05,"Molecular biotechnology, diagnostics and therapeutics","Engineered cells, genes and biological sequences","Polypeptide, nucleotide and amino-acid sequences",T07.01.05,3,13,678
+T07 / T07.02 / T07.02.01,"Molecular biotechnology, diagnostics and therapeutics",Therapeutic treatment and controlled release,Controlled-release agents and therapeutic treatment,T07.02.01,3,34,3019
+T07 / T07.02 / T07.02.02,"Molecular biotechnology, diagnostics and therapeutics",Therapeutic treatment and controlled release,"Peptides, viral infection and immune responses",T07.02.02,3,17,948
+T07 / T07.02 / T07.02.03,"Molecular biotechnology, diagnostics and therapeutics",Therapeutic treatment and controlled release,Naturally occurring derivatives and inhibitory isolation,T07.02.03,3,8,514
+T07 / T07.02 / T07.02.R,"Molecular biotechnology, diagnostics and therapeutics",Therapeutic treatment and controlled release,Residual therapeutic problem-statement wording,T07.02.R*,3,3,76
+T07 / T07.03 / T07.03.01,"Molecular biotechnology, diagnostics and therapeutics","Protein detection, tissue assays and repair","Protein diagnostics, tissue assays and antibodies",T07.03.01,3,18,1759
+T07 / T07.03 / T07.03.02,"Molecular biotechnology, diagnostics and therapeutics","Protein detection, tissue assays and repair",Tissue repair and biological activation,T07.03.02,3,8,397
+T07 / T07.03 / T07.03.R,"Molecular biotechnology, diagnostics and therapeutics","Protein detection, tissue assays and repair",Residual protein binding-domain descriptors,T07.03.R*,3,4,318
+T07 / T07.04,"Molecular biotechnology, diagnostics and therapeutics",Targeted delivery and permeability control,—,T07.04,2,18,1371
+T07 / T07.05,"Molecular biotechnology, diagnostics and therapeutics",Nucleic-acid and gene-expression inhibition,—,T07.05,2,16,1390
+T07 / T07.R,"Molecular biotechnology, diagnostics and therapeutics",Residual seed and repeated-sequence wording,—,T07.R*,2,5,257
+T08 / T08.01 / T08.01.01,"Photonics, optics and solar-energy devices","Illumination, radiation and light-emission sources",Infrared/ultraviolet radiation and disinfection,T08.01.01,3,9,812
+T08 / T08.01 / T08.01.02,"Photonics, optics and solar-energy devices","Illumination, radiation and light-emission sources","Lamps, ceiling fixtures and lighting equipment",T08.01.02,3,8,568
+T08 / T08.01 / T08.01.03,"Photonics, optics and solar-energy devices","Illumination, radiation and light-emission sources",Illumination intensity and light scattering,T08.01.03,3,8,1060
+T08 / T08.01 / T08.01.R,"Photonics, optics and solar-energy devices","Illumination, radiation and light-emission sources",Residual LED and light-emitting diodes,T08.01.R*,3,5,269
+T08 / T08.02,"Photonics, optics and solar-energy devices","Optical lenses, detectors and waveguides",—,T08.02,2,25,1808
+T08 / T08.03,"Photonics, optics and solar-energy devices",Laser and beam-based welding systems,—,T08.03,2,23,1838
+T08 / T08.04,"Photonics, optics and solar-energy devices","Solar optics, reflectors and photovoltaics",—,T08.04,2,18,1125
+T08 / T08.05,"Photonics, optics and solar-energy devices",Photographic silver-halide and photosensitive media,—,T08.05,2,18,839
+T08 / T08.06,"Photonics, optics and solar-energy devices","Color, emission and registration surfaces",—,T08.06,2,17,1116
+T08 / T08.R,"Photonics, optics and solar-energy devices",Residual liquid-crystal and polarizing terms,—,T08.R*,2,9,577
+T09,Patent-publication metadata terms,—,—,T09,1,8,295
+TR,Residual circularity and prior-art descriptors,—,—,TR*,1,15,436

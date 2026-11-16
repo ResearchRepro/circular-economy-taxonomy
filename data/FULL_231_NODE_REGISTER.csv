@@ -1,0 +1,232 @@
+﻿node_id,parent_id,depth,curated_english_label,patent_support_any_phrase,term_count,is_terminal,is_residual,evidence_top_12
+ROOT,,0,Patent-derived engineering and resource-process vocabulary,42354,4975,False,False,assembly | member | body | vehicle | engine | valve | gas | layer | waste | air | portion | fluid
+T01,ROOT,1,"Mechanical assemblies, mobility equipment and apparatus",35387,1470,False,False,assembly | member | body | vehicle | portion | container | housing | plate | element | support | base | structure
+T02,ROOT,1,"Digital processing, sensing and information systems",30322,1009,True,False,data | unit | component | processing | sensor | information | module | user | based | image | display | signal
+T03,ROOT,1,"Industrial materials, process streams and resource treatment",25512,868,False,False,gas | waste | water | liquid | treatment | metal | production | preparation | pipe | exhaust | carbon | oil
+T04,ROOT,1,"Polymer, composite and manufactured material systems",23899,552,False,False,layer | substrate | manufacturing | making | composite | film | polymer | sheet | cavity | circuit | fiber | resin
+T05,ROOT,1,"Fluid handling, thermal equipment and combustion systems",22897,427,False,False,engine | valve | air | fluid | fuel | chamber | control | combustion | heat | pressure | tube | flow
+T06,ROOT,1,"Electrical energy, magnetic machinery and connected devices",17176,248,False,False,power | elements | storage | energy | core | cell | electrode | rotor | electric | electrical | magnetic | battery
+T07,ROOT,1,"Molecular biotechnology, diagnostics and therapeutics",11681,238,False,False,acid | cells | treating | detection | delivery | nucleic | compounds | nucleic acid | protein | single | new | conditions
+T08,ROOT,1,"Photonics, optics and solar-energy devices",7291,140,False,False,light | optical | beam | radiation | laser | solar | lens | detector | color | welding | lamp | workpiece
+T09,ROOT,1,Patent-publication metadata terms,295,8,True,False,date | pct | sec | pub | pct pub | proposed | pct filed | filed
+TR,ROOT,1,Residual circularity and prior-art descriptors,436,15,True,True,prior | superior | art | environmentally | prior art | compared | environmentally friendly | friendly | concept | problems | concepts | green circular economy
+T01.01,T01,2,"Structural housings, plates and mounting assemblies",32170,1044,True,False,assembly | member | portion | container | housing | plate | element | support | base | structure | surface | frame
+T01.02,T01,2,"Vehicle drivetrains, shafts and moving mechanisms",17956,340,False,False,vehicle | shaft | mechanism | motor | drive | ring | wheel | transmission | variable | line | arm | bearing
+T01.03,T01,2,"Aircraft bodies, seating and floating structures",4634,63,False,False,body | main | seat | aircraft | main body | auxiliary | forward | wing | passenger | capacity | floating | body portion
+T01.04,T01,2,Washing and drying machinery,2170,21,True,False,machine | dry | drum | washing | loading | wet | machines | loaded | washer | treatments | wash | dryer
+T01.R,T01,2,Residual mechanical-connection phrasing,126,2,True,True,operatively | operatively connected
+T03.01,T03,2,"Water, wastewater and fluid-treatment infrastructure",7398,122,False,False,water | treatment | pipe | tank | membrane | removal | collection | hot | wastewater | tower | sludge | drying
+T03.02,T03,2,"Agricultural biomass, soil and biological conversion",5258,120,False,False,plant | organic | medium | soil | biomass | fermentation | improving | fertilizer | growth | culture | agricultural | animal
+T03.03,T03,2,"Aqueous extraction, solvent recovery and metal separation",5489,116,False,False,solution | recovery | produced | extraction | aqueous | salt | solvent | removing | concentration | calcium | recovering | metals
+T03.04,T03,2,"Solid minerals, slags and construction feedstocks",6610,104,False,False,preparation | parts | preparing | solid | particles | agent | powder | raw | slag | particle | size | iron
+T03.05,T03,2,"Mixed waste, plastic streams and liquid processing",8257,85,False,False,waste | liquid | oil | plastic | mixture | recycling | step | stream | feed | mixing | separation | obtained
+T03.06,T03,2,"Carbon feedstocks, syngas and hydrogen conversion",5698,79,False,False,production | carbon | hydrogen | conversion | steam | dioxide | oxygen | carbon dioxide | co2 | partially | synthesis | converting
+T03.07,T03,2,"Metallurgy, alloys and high-temperature reactions",5289,68,False,False,metal | reaction | mass | zone | furnace | aluminum | carrying | ceramic | alloy | molten | series | metallic
+T03.08,T03,2,Resource-utilization claims and residue descriptors,3069,59,False,False,reduced | utilization | resource | residue | residues | substance | industry | environmental | substances | good | carried | achieved
+T03.09,T03,2,"Exhaust gases, catalytic treatment and purification",4506,58,False,False,gas | exhaust | catalyst | oxide | exhaust gas | reducing | reduction | gases | catalytic | purification | oxidation | diesel
+T03.10,T03,2,Porous media and particulate filtration,1821,25,True,False,filter | porous | particulate | filtration | filtering | matter | filters | filtered | pore | pores | prevents | particulate matter
+T03.11,T03,2,Fuel burners and staged combustion equipment,1419,17,True,False,equipment | natural | stage | burner | flame | fuels | burning | batch | stages | natural gas | establishing | distinct
+T03.12,T03,2,Fluidized beds and contaminant-reactive treatment,902,15,True,False,bed | contaminants | reactive | fluidized | inert | contaminated | fluidized bed | in-situ | allowed | multi-stage | react | trace
+T04.01,T04,2,"Functional films, conductive layers and substrates",8480,105,False,False,layer | substrate | film | flexible | pattern | layers | conductive | adhesive | packaging | semiconductor | package | electrically
+T04.02,T04,2,"Fiber, textile and web-based materials",5707,73,False,False,making | fiber | structures | fibers | continuous | glass | paper | web | fabric | roll | textile | cellulose
+T04.03,T04,2,"Recycled polymers, polyester and plastic chemistry",4235,71,False,False,polymer | weight | recycled | polymeric | total | derived | polyester | polymers | polyethylene | molecular | pet | biodegradable
+T04.04,T04,2,"Concrete, structural composites and thermal insulation",4169,57,False,False,composite | construction | concrete | building | matrix | reinforced | insulation | reinforcing | lightweight | composite material | reinforcement | spacer
+T04.05,T04,2,"Resins, molding and elastomeric articles",4094,53,False,False,cavity | resin | article | articles | mold | molded | thermoplastic | molding | elastic | synthetic | absorbent | elastomeric
+T04.06,T04,2,"Sheet fabrication, extrusion and additive manufacturing",4286,46,False,False,manufacturing | sheet | manufacture | die | additive | pieces | sheets | extrusion | press | mixtures | extruded | additives
+T04.07,T04,2,Functional chemical compounds and polymer foams,2454,34,False,False,group | compound | foam | groups | functional | formula | consisting | alcohol | group consisting | bond | general | iii
+T04.08,T04,2,"Coatings, phase-change formulations and printing",2938,30,False,False,phase | coating | printing | change | coated | applying | substrates | applied | jet | binder | precursor | ink
+T04.09,T04,2,High-strength and corrosion-resistant steels,2178,28,True,False,steel | resistance | properties | strength | resistant | excellent | higher | stability | tensile | corrosion | high-strength | tensile strength
+T04.10,T04,2,"Residual stress, fatigue and material lifetime",1419,22,True,False,preferably | profile | stress | life | uniform | residual | spread | reduces | warm | beneficial | dissipation | fatigue
+T04.11,T04,2,"Printed circuit boards, pads and finishing",1501,17,True,False,circuit | board | pad | printed | circuit board | abrasive | final | boards | pads | printed circuit | polishing | printed circuit board
+T04.12,T04,2,"Microfluidic wells, fillers and assay surfaces",1242,16,True,False,density | filler | filling | assay | microfluidic | wells | sized | hydrophobic | subsequent | followed | hydrophilic | contamination
+T05.01,T05,2,"Valves, pumps and fluid-flow controls",9120,94,False,False,valve | fluid | control | pressure | flow | pump | inlet | outlet | channel | port | passage | path
+T05.02,T05,2,"Heat transfer, cooling and heating equipment",5658,62,False,False,heat | tube | temperature | cooling | heating | transfer | controlling | tubes | range | exchanger | heat exchanger | external
+T05.03,T05,2,"Tire structures, tread and inflation devices",5269,61,False,False,region | tire | direction | groove | intermediate | segments | radial | segment | radially | width | rubber | passageway
+T05.04,T05,2,Internal-combustion cylinders and engine mechanisms,6379,54,True,False,engine | chamber | combustion | cylinder | internal | internal combustion engine | piston | internal combustion | rotary | combustion engine | rod | connecting
+T05.05,T05,2,"Air movement, turbines and compressor systems",3705,51,False,False,air | turbine | fan | compressor | duct | vanes | compressed | airflow | air flow | vent | centrifugal | impeller
+T05.06,T05,2,"Fuel injectors, nozzles and spray metering",2787,33,False,False,fuel | injection | nozzle | injector | spray | orifice | fuel injection | fuel injector | spraying | nozzles | metering | regulating
+T05.07,T05,2,"Air intakes, manifolds and throttle systems",1709,29,False,False,intake | manifold | charge | dual | induction | throttle | air intake | carburetor | intake manifold | venturi | plenum | subsequently
+T05.08,T05,2,Reactor vessels and nuclear containment equipment,2486,28,True,False,reactor | vessel | operating | working | nuclear | rods | passive | containment | vessels | reactors | nuclear reactor | cores
+T05.09,T05,2,Interior-exterior passage geometry,1291,13,True,False,volume | interior | exterior | downstream | upstream | exterior surface | leads | interior surface | volumes | interior volume | usually | enter
+T05.R,T05,2,Residual problem-statement wording,54,2,True,True,aims | solve
+T06.01,T06,2,"Batteries, electrodes and electrochemical cells",5491,56,False,False,elements | cell | electrode | battery | active | array | primary | form | electrodes | secondary | located | cathode
+T06.02,T06,2,"Electric machines, magnetic cores and windings",4595,53,False,False,core | rotor | electric | magnetic | current | coil | field | electromagnetic | magnet | hybrid | stator | winding
+T06.03,T06,2,"Power supply, energy storage and generation",4921,50,False,False,power | storage | energy | thermal | supply | generating | generator | distribution | generation | wind | voltage | expansion
+T06.04,T06,2,"Electrical connectors, conductors and switches",3481,31,False,False,electrical | contact | connector | wire | connection | cable | switch | terminal | conductor | switching | lead | wires
+T06.05,T06,2,Spark-plug electrodes and ignition gaps,1837,22,True,False,center | plug | ground | gap | tip | spark | cross-sectional | spark plug | nose | cross-sectional area | insulator | gaps
+T06.06,T06,2,Catheter drainage and pressure-control devices,1011,17,True,False,distal | distal end | proximal | negative | increase | catheter | drainage | proximal end | inflatable | negative pressure | bladder | perforations
+T06.07,T06,2,Magnetic-resonance imaging and pulse sequences,1189,17,True,False,imaging | subject | pulse | sets | therapy | resonance | pulses | magnetic resonance | scan | gradient | magnetic resonance imaging | resonance imaging
+T06.R,T06,2,Residual energy-conservation terminology,19,2,True,True,conservation | energy conservation
+T07.01,T07,2,"Engineered cells, genes and biological sequences",5719,107,False,False,cells | single | new | modified | sequence | activity | plants | acids | double | molecules | host | specifically
+T07.02,T07,2,Therapeutic treatment and controlled release,4146,62,False,False,treating | conditions | controlled | release | individual | condition | direct | human | agents | effective | preventing | therapeutic
+T07.03,T07,2,"Protein detection, tissue assays and repair",2360,30,False,False,detection | protein | tissue | corresponding | useful | binding | proteins | encoded | kits | variants | cancer | repair
+T07.04,T07,2,Targeted delivery and permeability control,1371,18,True,False,delivery | site | enhancing | approximately | drug | delivered | deliver | delivering | rates | permeability | frequencies | concentrations
+T07.05,T07,2,Nucleic-acid and gene-expression inhibition,1390,16,True,False,acid | nucleic | compounds | nucleic acid | gene | expression | inhibiting | decreasing | gene expression | silencing | mdrna | meroduplex
+T07.R,T07,2,Residual seed and repeated-sequence wording,257,5,True,True,seed | seeds | angularly | repeated | combine
+T08.01,T08,2,"Illumination, radiation and light-emission sources",2175,30,False,False,light | radiation | lamp | transparent | lighting | illumination | wavelength | emitting | fixture | visible | led | infrared
+T08.02,T08,2,"Optical lenses, detectors and waveguides",1808,25,True,False,optical | lens | detector | microwave | index | eye | waveguide | optical fiber | coupler | optic | lenses | oven
+T08.03,T08,2,Laser and beam-based welding systems,1838,23,True,False,beam | laser | welding | workpiece | beams | depth | welded | electron | overlapping | laser beam | workpieces | weld
+T08.04,T08,2,"Solar optics, reflectors and photovoltaics",1125,18,True,False,solar | reflective | reflector | grid | mirror | solar energy | photovoltaic | trough | reflection | focal | rays | reflecting
+T08.05,T08,2,Photographic silver-halide and photosensitive media,839,18,True,False,silver | white | exposure | photosensitive | halide | photographic | exposing | mean | developing | emulsion | grains | sensitivity
+T08.06,T08,2,"Color, emission and registration surfaces",1116,17,True,False,color | emission | screening | foil | envelope | enclosing | remotely | master | ray | stresses | distances | registration
+T08.R,T08,2,Residual liquid-crystal and polarizing terms,577,9,True,True,crystal | incorporating | wide | narrow | liquid crystal | wide range | simplified | economical | polarizing
+T01.02.01,T01.02,3,"Shaft, gear and transmission couplings",8425,113,True,False,shaft | drive | ring | transmission | line | bearing | output | gear | coupling | speed | rotating | rotation
+T01.02.02,T01.02,3,"Vehicle wheels, suspension and motor assemblies",8309,107,True,False,vehicle | motor | wheel | spring | force | disc | hub | vehicles | disk | suspension | friction | wheels
+T01.02.03,T01.02,3,"Cam, actuator and variable-motion mechanisms",6216,80,True,False,mechanism | variable | arm | actuator | movement | motion | cam | mechanical | angle | arms | relative | linear
+T01.02.04,T01.02,3,Pivoting alignment racks and exercise mechanisms,2520,40,True,False,selectively | alignment | rack | pairs | foot | initial | pivotally | running | precision | exercise | protrusions | shoe
+T01.03.01,T01.03,3,"Aircraft bodies, seats and wing structures",3868,38,True,False,body | main | seat | aircraft | main body | auxiliary | forward | wing | passenger | capacity | body portion | propulsion
+T01.03.02,T01.03,3,Buoyant marine hulls and offshore deployment,856,21,True,False,floating | deployment | float | sea | hull | ocean | inertial | buoyant | occupant | buoyancy | offshore | underwater
+T01.03.R,T01.03,3,Residual unmanned aerial-vehicle terminology,126,4,True,True,aerial | preset | unmanned | aerial vehicle
+T03.01.01,T03.01,3,"Wastewater, sewage sludge and drying treatments",2382,32,True,False,treatment | wastewater | sludge | drying | treated | sewage | moisture | advanced | waste water | water treatment | dried | bubbles
+T03.01.02,T03.01,3,"Water pipelines, tanks and thermal circulation",3143,32,True,False,water | pipe | tank | hot | pipeline | pipes | cold | circulating | communicated | pool | storage tank | tanks
+T03.01.03,T03.01,3,"Flue-gas absorption, dust removal and heat recovery",1736,31,True,False,removal | tower | separator | absorption | dust | flue | flue gas | boiler | waste heat | high-temperature | smoke | heat recovery
+T03.01.04,T03.01,3,Municipal refuse collection and disposal infrastructure,976,15,True,False,collection | collecting | appliance | collected | underground | disposal | garbage | domestic | household | urban | appliances | pit
+T03.01.05,T03.01,3,Reverse-osmosis membranes and desalination,808,12,True,False,membrane | reverse | permeable | concentrate | membranes | zero | osmosis | desalination | reverse osmosis | permeate | serves | seawater
+T03.02.01,T03.02,3,Microbial fermentation and ethanol bioprocesses,999,17,True,False,fermentation | complex | microbial | microorganisms | factors | ethanol | submerged | sugar | days | eliminates | fermenting | aerobic
+T03.02.02,T03.02,3,"Crop cultivation, irrigation and ecological planting",701,14,True,False,agricultural | planting | ecological | land | irrigation | crop | agriculture | grass | slope | crops | greenhouse | lawn
+T03.02.03,T03.02,3,"Algal growth, aquaculture and nutrient use",980,13,True,False,plant | growth | growing | power plant | algae | promoting | nutrients | aquatic | aquaculture | large-scale | microalgae | significance
+T03.02.04,T03.02,3,"Culture media, fungal cultivation and harvesting",942,12,True,False,medium | culture | grain | cultivation | harvesting | edible | culture medium | culturing | mushroom | fungus | bioreactor | cultivating
+T03.02.05,T03.02,3,"Livestock, manure and poultry-derived streams",460,11,True,False,animal | breeding | livestock | live | manure | poultry | farm | urine | ware | pig | excrement
+T03.02.06,T03.02,3,"Rice straw, grain residues and seedling substrates",414,11,True,False,straw | rice | raising | corn | conveniently | wheat | bran | meal | straws | dough | seedling
+T03.02.07,T03.02,3,Fruit and vegetable preparation processes,498,11,True,False,deep | efficiently | fruit | vegetable | prepare | shallow | loose | juice | mainly | circular economy development | economy development
+T03.02.08,T03.02,3,Hydrothermal biomass conversion and biochar,737,10,True,False,biomass | improving | development | hydrothermal | high-quality | aging | biochar | charcoal | lignocellulosic | tea
+T03.02.09,T03.02,3,"Organic fertilizers, soil and waste amendments",939,10,True,False,organic | soil | fertilizer | special | organic fertilizer | organic waste | fertilizers | urea | harmless | compound fertilizer
+T03.02.R,T03.02,3,"Residual biogas, anaerobic digestion and separation terms",505,11,True,True,branch | biogas | anaerobic | tree | digestion | trees | branches | accordingly | solid-liquid | trunk | solid-liquid separation
+T03.03.01,T03.03,3,Metal-ion extraction and heavy-metal recovery,2090,26,True,False,recovery | produced | removing | recovering | metals | heavy | ions | removed | addition | nickel | salts | remove
+T03.03.02,T03.03,3,Spent-solvent extraction and precipitation,1170,16,True,False,extraction | solvent | extracting | extract | spent | extracted | dissolved | pure | dissolving | precipitation | ionic | solvents
+T03.03.03,T03.03,3,"Acidic leaching, filtration and stripping",1223,15,True,False,solution | aqueous | adding | solutions | stirring | leaching | aqueous solution | acidic | filtrate | stripping | precipitate | acid solution
+T03.03.04,T03.03,3,"Calcium, sodium and sulfate salt conversion",1002,15,True,False,salt | calcium | sodium | sulfate | carbonate | hydroxide | magnesium | reacting | ammonium | potassium | pertains | carboxylic
+T03.03.05,T03.03,3,Titanium dioxide and waste-acid hydrolysis,427,11,True,False,concentrated | titanium | sulfuric acid | sulfuric | hydrolysis | fluoride | adopting | titanium dioxide | dilute | photocatalytic | waste acid
+T03.03.06,T03.03,3,"Brine concentration, evaporation and crystallization",607,10,True,False,concentration | liquor | evaporation | brine | crystallization | mother | strong | condensed | crystals | mother liquor
+T03.03.07,T03.03,3,"Chloride, PVC and hydrochloric by-products",328,8,True,False,chloride | polyvinyl | byproduct | chlorine | pvc | hydrochloric acid | hydrochloric | byproducts
+T03.03.R,T03.03,3,"Residual rare-earth, phosphate and alkaline chemistry",723,15,True,True,earth | alkali | alkaline | sulfur | phosphate | phosphorus | critical | rare | rare earth | alkali metal | roasting | phosphoric
+T03.04.01,T03.04,3,Silicon-carbide sintering and hardening,1117,17,True,False,deg | silicon | green | percent | sintering | carbide | sintered | hardness | minutes | diamond | annealing | hardening
+T03.04.02,T03.04,3,"Slag grinding, tailings and cement powders",1307,16,True,False,powder | slag | iron | cement | grinding | mineral | ore | micro | tailings | steel slag | admixture | tailing
+T03.04.03,T03.04,3,Raw-material preparation and dispersing agents,2602,16,True,False,preparation | parts | preparing | agent | raw | prepared | raw material | raw materials | environment-friendly | taking | dispersing | energy-saving
+T03.04.04,T03.04,3,"Sand, silica aggregates and mortar formulations",877,15,True,False,fine | sand | aggregate | gel | silica | stone | brick | clay | silicate | coarse | quartz | mortar
+T03.04.05,T03.04,3,"Coal slurries, lime calcination and rotary kilns",637,10,True,False,slurry | coal | kiln | mining | machinery | lime | preheating | calcining | rotary kiln | limestone
+T03.04.06,T03.04,3,"Fly ash, red mud and desulfurized gypsum",486,9,True,False,ash | fly | mud | gypsum | fly ash | red | incineration | low-carbon | desulfurized
+T03.04.R,T03.04,3,Residual particulate solids and regeneration terminology,1966,21,True,True,solid | particles | particle | size | wastes | solid waste | regeneration | regenerated | particle size | blast | regenerating | hazardous
+T03.05.01,T03.05,3,"Fractionation, distillation and material pellets",1292,20,True,False,fraction | processed | added | recovered | subjected | bath | passed | distillation | pellets | boiling | purity | quantities
+T03.05.02,T03.05,3,Pyrolysis feedstocks and hydrocarbon cracking,1994,19,True,False,stream | feed | pyrolysis | combined | hydrocarbon | feedstock | split | effluent | cracking | hydrocarbons | fed | cases
+T03.05.03,T03.05,3,Liquid mixing and solid-liquid separation,3256,17,True,False,liquid | mixture | step | mixing | separation | obtained | separating | liquids | solids | separated | subjecting | mixer
+T03.05.04,T03.05,3,Plastic-waste streams and chemical recycling,2750,16,True,False,waste | plastic | recycling | chemical | mixed | plastics | streams | chemicals | plastic material | plastic waste | waste material | waste materials
+T03.05.05,T03.05,3,"Lubricating oils, greases and oil-pump equipment",1086,13,True,False,oil | major | lubricant | fresh | lubricating | minor | crude | lubrication | sump | lubricating oil | oil pump | grease
+T03.06.01,T03.06,3,Activated-carbon adsorption and contact treatment,1612,23,True,False,suitable | activated | optionally | presence | contacting | adsorption | steps | activation | temporary | adsorbent | stabilizer | activated carbon
+T03.06.02,T03.06,3,"Steam conversion, methane and syngas pathways",1622,19,True,False,conversion | steam | partially | synthesis | converting | partial | changing | boundary | methane | methanol | converted | gasification
+T03.06.03,T03.06,3,Hydrogen production and water electrolysis,1955,17,True,False,production | hydrogen | oxygen | renewable | sustainable | introducing | electrolysis | atmosphere | electrolytic | hydrogen production | splitting | renewable energy
+T03.06.04,T03.06,3,"Carbon dioxide, sorbents and sequestration",959,9,True,False,carbon | dioxide | carbon dioxide | co2 | atmospheric | sorbent | supercritical | sequestration | carbon material
+T03.06.R,T03.06,3,Residual carbonaceous gas and carbon-black terms,681,11,True,True,gaseous | black | carbon monoxide | monoxide | carbonaceous | introduced | carbon black | volatile | rich | reactant | carbonaceous material
+T03.07.01,T03.07,3,"Aluminum, copper and zinc alloy processing",2203,31,True,False,mass | aluminum | alloy | metallic | copper | cast | zinc | monitor | balance | alloys | scrap | pretreatment
+T03.07.02,T03.07,3,Ceramic reaction zones and reactive constituents,1665,19,True,False,reaction | zone | carrying | ceramic | zones | reaction product | conveyed | self-supporting | constituent | reactants | constituents | reaction chamber
+T03.07.03,T03.07,3,"Molten-metal furnaces, casting and smelting",1991,18,True,False,metal | furnace | molten | series | casting | smelting | cyclic | transferred | slab | conducted | molten metal | preservation
+T03.08.01,T03.08,3,"Bamboo, timber and economic-benefit descriptors",660,12,True,False,good | carried | achieved | benefits | bamboo | economic | enriched | glue | timber | social benefits | remarkable | economic benefits
+T03.08.02,T03.08,3,Industrial resource-use and utilization wording,666,12,True,False,utilization | resource | resources | comprehensive | resource utilization | benefit | comprehensive utilization | factory | high-purity | realizing | comprehensively | utilization rate
+T03.08.03,T03.08,3,Process reduction and withdrawal descriptors,871,12,True,False,reduced | substance | substances | technique | self-contained | realized | technological | withdrawn | withdrawal | reaches | eliminated | cost reduced
+T03.08.04,T03.08,3,Shredded by-products and waste-residue handling,543,10,True,False,residue | residues | discharged | mix | shredding | by-product | waste residue | waste residues | shredder | promoted
+T03.08.05,T03.08,3,Industrial pollution and secondary-emission wording,500,9,True,False,industry | environmental | pollution | humidity | by-products | industries | environmental protection | environmental pollution | secondary pollution
+T03.08.R,T03.08,3,Residual ice and frozen-material terms,183,4,True,True,ice | freezing | frozen | snow
+T03.09.01,T03.09,3,Catalytic oxidation and diesel-emission reduction,2591,31,True,False,catalyst | oxide | reducing | reduction | catalytic | oxidation | diesel | transition | reduce | selective | ammonia | emissions
+T03.09.02,T03.09,3,Exhaust-gas recirculation and gas-stream treatment,1947,15,True,False,gas | exhaust | exhaust gas | gases | recirculation | gas stream | exhaust gases | waste gas | gas recirculation | gas treatment | egr | exhaust gas recirculation
+T03.09.03,T03.09,3,Tail-gas purification and pollutant removal,498,9,True,False,purification | tail | purifying | purified | tail gas | gas purification | purifier | returned | exhaust gas purification
+T03.09.R,T03.09,3,Residual gas-inlet and outlet terminology,111,3,True,True,gas inlet | anhydride | gas outlet
+T04.01.01,T04.01,3,Patterned dielectric deposition and substrates,2927,29,True,False,substrate | pattern | formation | plasma | stack | deposition | inorganic | dielectric | exposed | patterns | deposited | patterned
+T04.01.02,T04.01,3,Flexible barrier films and packaging laminates,3658,26,True,False,layer | film | flexible | layers | packaging | package | barrier | rigid | laminate | laminated | films | composed
+T04.01.03,T04.01,3,"Semiconductor chips, wafers and transistor layers",1449,18,True,False,semiconductor | three-dimensional | effect | chip | wafer | fabrication | gate | drain | chips | involves | fabricated | two-dimensional
+T04.01.04,T04.01,3,Adhesive bonding and pressure-sensitive layers,1180,15,True,False,adhesive | skin | bonding | bonded | backing | sensitive | adhesion | adhesive layer | adhered | coat | tile | plating
+T04.01.05,T04.01,3,Conductive coatings and capacitive materials,670,8,True,False,conductive | electrically | electrically conductive | capacitor | electrically connected | electrically coupled | conductive material | capacitive
+T04.01.R,T04.01,3,Residual insulation-thickness and thermal barriers,776,9,True,True,thickness | insulating | thermally | insulated | variation | insulating material | wall thickness | principal | insulating layer
+T04.02.01,T04.02,3,Cellulosic and glass-fiber mat fabrication,2506,15,True,False,making | fiber | structures | fibers | glass | cellulose | fibrous | cellulosic | incorporates | lignin | impregnated | mat
+T04.02.02,T04.02,3,Continuous web rolls and labeling systems,917,12,True,False,web | roll | rolls | label | identical | hand-held | webs | cooperate | advance | class | laid | labels
+T04.02.03,T04.02,3,Nonwoven filaments and textile fabrics,734,12,True,False,fabric | filaments | nonwoven | filament | multiplicity | fabrics | particularly useful | cloth | woven | non-woven | limits | nonwoven fabric
+T04.02.04,T04.02,3,Knitting needles and yarn manufacturing,612,10,True,False,needle | locations | yarn | dimensional | effecting | knitting | needles | symmetric | knitting machine | weft
+T04.02.05,T04.02,3,Twisted strands and continuous bulk fibers,712,8,True,False,continuous | bulk | strands | employ | strand | twisted | twisting | twist
+T04.02.06,T04.02,3,"Textile spinning, carpets and leather materials",508,8,True,False,textile | spinning | fibres | fibre | finished | yarns | leather | carpet
+T04.02.R,T04.02,3,"Residual paper pulp, wood and corrugated products",779,8,True,True,paper | wood | pulp | melting | corrugated | melting point | compatibility | papermaking
+T04.03.01,T04.03,3,Recycled polyolefin and polypropylene blends,2325,28,True,False,weight | recycled | total | molecular | melt | especially | ethylene | average | polypropylene | polyolefin | copolymer | blend
+T04.03.02,T04.03,3,Monomer chemistry and polymer depolymerization,1778,24,True,False,polymer | polymeric | derived | polymers | therefrom | monomer | ester | aromatic | polymerization | depolymerization | poly | polymeric material
+T04.03.03,T04.03,3,"PET, polyester resins and glycol modification",752,14,True,False,polyester | polyethylene | pet | terephthalate | mol | polyethylene terephthalate | glycol | modifier | ppm | problem | polyester resin | taken
+T04.03.R,T04.03,3,Residual compostable and biodegradable polymers,342,5,True,True,biodegradable | recyclable | home | compostable | biopolymer
+T04.04.01,T04.04,3,Fiber-reinforced wrapping and encapsulation,664,13,True,False,constructing | wrapped | wrapping | fiber-reinforced | encapsulated | finish | preselected | encapsulation | sandwich | initiator | rupture | seismic
+T04.04.02,T04.04,3,Structural spacers and thermal insulation,717,10,True,False,insulation | spacer | circulation | proximate | maintain | nested | struts | thermal insulation | strut | insulation material
+T04.04.03,T04.04,3,"Precast concrete, foundations and piles",954,9,True,False,construction | concrete | foundation | pile | prefabricated | poured | piles | pouring | precast
+T04.04.04,T04.04,3,Lightweight cementitious aggregates and stiffness,546,8,True,False,lightweight | shear | loads | stiffness | cementitious | aggregates | alpha | supplementary
+T04.04.05,T04.04,3,Nanoparticle-reinforced composite matrices,1154,8,True,False,composite | matrix | composite material | composites | dispersed | nanoparticles | graphene | composite materials
+T04.04.R,T04.04,3,Residual reinforced-concrete and building terms,817,9,True,True,building | reinforced | reinforcing | reinforcement | structurally | fiber reinforced | building material | reinforced concrete | building block
+T04.05.01,T04.05,3,"Curing, thermoset and thermoplastic resins",1120,14,True,False,resin | thermoplastic | synthetic | curing | epoxy | resins | cured | thermoplastic resin | resist | thermoplastic material | curable | thermosetting
+T04.05.02,T04.05,3,Foamed and absorbent molded articles,1285,13,True,False,article | articles | molded | absorbent | foamed | wearer | molded plastic | exhibits | foaming | molded article | absorbent article | kept
+T04.05.03,T04.05,3,Stretch-blow molding and preforms,524,11,True,False,stretch | specified | mould | blow | stretched | moulding | stretching | preform | blown | progress | stretchable
+T04.05.04,T04.05,3,Elastomer deformation and stretchable articles,707,8,True,False,elastic | elastomeric | deformable | stable | deformation | conform | deformed | elastically
+T04.05.R,T04.05,3,Residual injection molds and cavity terms,1034,7,True,True,cavity | mold | molding | amounts | injection molding | mold cavity | molds
+T04.06.01,T04.06,3,Rolled sheet and sheet-material fabrication,1153,11,True,False,sheet | sheets | sheet material | material having | covered | rolled | basis | entire | sheet having | little | metal sheet
+T04.06.02,T04.06,3,"Melt extrusion, granules and quenching",660,10,True,False,extrusion | extruded | filled | extruder | fused | quenching | economically | granules | melted | surround
+T04.06.03,T04.06,3,Additive manufacturing and material mixtures,1684,9,True,False,manufacturing | manufacture | additive | mixtures | additives | manufactured | optional | additive manufacturing | hardened
+T04.06.04,T04.06,3,Joining and fabrication of sheet-metal pieces,693,8,True,False,pieces | joining | fabricating | laterally | sheet metal | resiliently | extruding | enlarged
+T04.06.R,T04.06,3,"Residual die pressing, mandrels and punching",622,8,True,True,die | press | mandrel | punch | dies | paperboard | punching | dial
+T04.07.01,T04.07,3,"Alcohol, alkyl and water-soluble chemical formulas",982,17,True,False,formula | alcohol | bond | general | atoms | alkyl | represented | represents | bonds | water-soluble | carbon atoms | represent
+T04.07.02,T04.07,3,Amine and functional-group formulations,1345,12,True,False,group | compound | groups | functional | consisting | group consisting | iii | chemically | amine | magnitude | multi | periodic
+T04.07.R,T04.07,3,Residual polyurethane foam and bio-based polyols,362,5,True,True,foam | polyurethane | blowing | bio-based | polyol
+T04.08.01,T04.08,3,"Binder coatings, pigments and substrate deposition",1512,15,True,False,coating | coated | applying | applied | binder | precursor | dispersion | coatings | percentage | substrate having | toner | pigment
+T04.08.02,T04.08,3,"Crystalline, amorphous and phase-change media",1165,10,True,False,phase | change | substrates | jet | amorphous | crystalline | robust | phases | liquid phase | phase change
+T04.08.R,T04.08,3,Residual inkjet printing and interconnects,455,5,True,True,printing | ink | print | printer | interconnect
+T05.01.01,T05.01,3,"Flow paths, gas-flow rate and fluid velocity",2278,16,True,False,flow | channel | path | rate | fluid flow | velocity | flow path | gas flow | flow rate | meter | laminar | distribute
+T05.01.02,T05.01,3,"Control valves, valve seats and valve bodies",2333,15,True,False,valve | control | valves | control valve | valve body | valve assembly | flow control | valve seat | valve member | body member | valve housing | cover plate
+T05.01.03,T05.01,3,"Inlet, outlet and fluid-conduit geometry",1559,12,True,False,inlet | outlet | conduit | channels | surrounding | fluidly | outlet end | inlet end | outlet opening | exiting | inlet opening | having inlet
+T05.01.04,T05.01,3,Pressure-relief diaphragms and gauges,1244,10,True,False,pressure | diaphragm | differential | relief | gauge | fluid pressure | pressure sensor | differential pressure | pressure relief | pressure chamber
+T05.01.05,T05.01,3,"Turbulence, pressure excess and flow instability",589,9,True,False,relatively | excess | turbulence | pressures | vicinity | avoiding | minimized | possibly | hammer
+T05.01.06,T05.01,3,"Pumps, reservoirs and pressurized fluid supply",2129,9,True,False,fluid | pump | reservoir | fluids | fluid communication | pressurized | pumps | flow fluid | fluid inlet
+T05.01.R,T05.01,3,"Residual hydraulic ports, passages and check valves",2159,23,True,True,port | passage | hydraulic | discharge | ports | passages | check | blocking | inlet port | induced | check valve | therethrough
+T05.02.01,T05.02,3,Heating elements and temperature regulation,2414,19,True,False,temperature | heating | controlling | range | external | heater | heated | temperatures | usage | increases | heating element | aerosol
+T05.02.02,T05.02,3,Heat exchangers and thermal circulation,1314,11,True,False,heat | exchanger | heat exchanger | exchange | heat exchange | flowing | flows | header | exchanging | expander | heat pump
+T05.02.03,T05.02,3,"Coolants, radiators and evaporative cooling",919,10,True,False,cooling | coolant | jacket | cooled | cooler | radiator | cool | evaporative | canister | cooling air
+T05.02.04,T05.02,3,"Condensers, evaporators and refrigeration loops",452,8,True,False,bundle | condenser | evaporator | refrigerant | refrigeration | flash | falling | paired
+T05.02.R,T05.02,3,"Residual tubes, heat sinks and transfer fins",1668,14,True,True,tube | transfer | tubes | heat transfer | fins | sink | fin | regenerative | inner tube | heat sink | transfers | heat exchangers
+T05.03.01,T05.03,3,Radial tire geometry and pneumatic contours,1979,16,True,False,direction | intermediate | radial | width | pneumatic | projection | circumferential | height | extension | protrusion | pneumatic tire | contour
+T05.03.02,T05.03,3,"Tire rubber, tread, bead and carcass construction",940,10,True,False,tire | rubber | bead | tires | crown | tread | beads | diameters | carcass | ply
+T05.03.03,T05.03,3,Air-maintenance tire pumps and valve stems,476,9,True,False,stem | pumping | maintenance | air maintenance | act | air maintenance tire | maintenance tire | valve stem | pump assembly
+T05.03.04,T05.03,3,Self-inflating tire passages and regulators,497,9,True,False,passageway | regulator | operative | passageways | air passageway | flattened | tire cavity | self-inflating | self-inflating tire
+T05.03.05,T05.03,3,Tire sidewall grooves and rolling footprint,1797,9,True,False,region | groove | segments | segment | sidewall | rolling | bending | sidewalls | footprint
+T05.03.06,T05.03,3,Radially inward and outward tire extensions,434,8,True,False,radially | outward | inward | outermost | extending radially | radially extending | radially outward | radially inwardly
+T05.05.01,T05.05,3,"Fans, ducts and ventilation airflow",2215,25,True,False,air | fan | duct | airflow | air flow | vent | bypass | room | ventilation | deflector | shroud | air inlet
+T05.05.02,T05.05,3,Gas turbines and diffusers,687,9,True,False,turbine | diffuser | gas turbine | turbine engine | diffusion | gas turbine engine | regulated | gearbox | combustor
+T05.05.03,T05.05,3,"Centrifugal compressors, impellers and vanes",802,8,True,False,compressor | vanes | centrifugal | impeller | exit | vane | turbocharger | divided
+T05.05.R,T05.05,3,Residual compressed-air and air-conditioning terms,550,9,True,True,compressed | ambient | supplied | conditioning | compressed air | supplies | air conditioning | ambient air | compress
+T05.06.01,T05.06,3,Fuel-injection metering and injector orifices,2125,23,True,False,fuel | injection | injector | orifice | fuel injection | fuel injector | metering | regulating | distributor | quantity | orifices | injecting
+T05.06.02,T05.06,3,Spray nozzles and droplet formation,817,8,True,False,nozzle | spray | spraying | nozzles | droplets | entrained | sprayed | sprayer
+T05.06.R,T05.06,3,Residual fuel-air mixture terminology,70,2,True,True,fuel mixture | air fuel
+T05.07.01,T05.07,3,"Air-intake manifolds, carburetors and venturis",716,13,True,False,manifold | carburetor | intake manifold | venturi | plenum | subsequently | crankcase | throat | converging | fittings | fuel-air | uniformity
+T05.07.02,T05.07,3,"Intake air, swirl and cylinder charge",855,10,True,False,intake | charge | dual | air intake | swirl | intake air | exhaust port | intake port | intake valve | exhaust valve
+T05.07.R,T05.07,3,Residual throttles and idle-control terms,357,6,True,True,induction | throttle | accelerator | idle | throttle valve | throttle body
+T06.01.01,T06.01,3,Lithium-ion batteries and graphite electrodes,1204,14,True,False,primary | secondary | ion | lithium | positive | batteries | transferring | graphite | active material | negative electrode | secondary battery | lithium ion
+T06.01.02,T06.01,3,Active energy elements and device cavities,1771,12,True,False,elements | active | form | cavities | examples | involve | designs | requires | biocompatible | require | kind | energization
+T06.01.03,T06.01,3,Electrode arrays and collectors,1651,12,True,False,electrode | array | electrodes | located | collector | arrays | emitter | electrode assembly | particulates | conditioner | air conditioner | self-cleaning
+T06.01.04,T06.01,3,"Battery packs, charging and cell integration",817,10,True,False,battery | charging | pack | charged | electrostatic | battery pack | battery cell | battery cells | influence | power tool
+T06.01.05,T06.01,3,"Cathodes, anodes and electrochemical cells",1041,8,True,False,cell | cathode | electrochemical | electrolyte | anode | fuel cell | electrochemical cell | bipolar
+T06.02.01,T06.02,3,"Coils, transformer windings and inductive cores",1845,16,True,False,core | current | coil | winding | coils | wound | windings | transformer | turn | currents | inductive | turns
+T06.02.02,T06.02,3,"Magnetic fields, flux and electromagnets",1340,11,True,False,magnetic | field | electromagnetic | magnetic field | soft | flux | fields | alternating | magnetically | electromagnet | magnetic flux
+T06.02.03,T06.02,3,Permanent magnets and magnetic forces,651,11,True,False,magnet | permanent | magnets | forces | permanent magnet | permanent magnets | closer | decreases | superconducting | ferromagnetic | electrical machine
+T06.02.04,T06.02,3,"Electric motors, rotors and stators",1416,9,True,False,rotor | electric | hybrid | stator | electric motor | electric machine | electric vehicle | electric field | alternator
+T06.02.R,T06.02,3,"Residual pole, armature and solenoid terms",427,6,True,True,pole | armature | solenoid | poles | concentrically | ski
+T06.03.01,T06.03,3,Electrical power distribution and supply voltages,1897,13,True,False,power | supply | distribution | voltage | supplying | power supply | electrical power | electric power | connects | initiating | power distribution | power output
+T06.03.02,T06.03,3,"Energy storage, flywheels and energy conversion",1514,12,True,False,storage | energy | energy storage | potential | electrical energy | convert | kinetic | flywheel | kinetic energy | energy conversion | electric energy | military
+T06.03.03,T06.03,3,Wind turbines and electrical generators,940,10,True,False,generator | generation | wind | power generation | wind turbine | turbines | generators | wind power | power generator | thermoelectric
+T06.03.04,T06.03,3,Thermal management and material expansion,770,8,True,False,thermal | expansion | coefficient | conductivity | thermal energy | expanding | thermal expansion | thermal management
+T06.03.R,T06.03,3,Residual electricity and exothermic generation terms,608,7,True,True,generating | electricity | essential | exothermic | warming | power generating | heat generating
+T06.04.01,T06.04,3,"Electrical contacts, terminals and switching",2441,19,True,False,electrical | contact | connector | connection | switch | terminal | switching | contacts | connectors | terminals | connections | switches
+T06.04.02,T06.04,3,"Conductors, cables and wire shielding",1323,12,True,False,wire | cable | conductor | lead | wires | conductors | sheath | shielding | wiring | helix | minimizing | harness
+T07.01.01,T07.01,3,DNA/RNA probes and molecular species,1983,30,True,False,single | plants | double | molecules | probe | species | dna | respectively | molecule | rna | genes | ingredients
+T07.01.02,T07.01,3,"Recombinant hosts, vectors and degradation enzymes",1679,24,True,False,new | activity | host | specifically | encoding | strain | polypeptides | degradation | vector | enzymes | recombinant | vectors
+T07.01.03,T07.01,3,Engineered bacterial cells and gene modification,1794,22,True,False,cells | modified | specific | increasing | engineered | bacteria | modification | modifying | altering | genetically | targeting | sites
+T07.01.04,T07.01,3,"Nucleic acids, fatty acids and pathway engineering",1086,18,True,False,acids | starting | combining | nucleic acids | engineering | organisms | furthermore | fish | fatty | pathway | starch | desirable
+T07.01.05,T07.01,3,"Polypeptide, nucleotide and amino-acid sequences",678,13,True,False,sequence | sequences | amino | polypeptide | amino acid | identity | polynucleotide | complementary | forth | nucleotide | acid sequence | creates
+T07.02.01,T07.02,3,Controlled-release agents and therapeutic treatment,3019,34,True,False,treating | conditions | controlled | release | individual | condition | direct | agents | effective | preventing | therapeutic | additional
+T07.02.02,T07.02,3,"Peptides, viral infection and immune responses",948,17,True,False,human | cellular | pharmaceutical | prevention | peptide | infection | virus | inducing | responses | immune | viral | knowledge
+T07.02.03,T07.02,3,Naturally occurring derivatives and inhibitory isolation,514,8,True,False,concerns | isolation | derivatives | isolating | inhibit | occurring | naturally | restriction
+T07.02.R,T07.02,3,Residual therapeutic problem-statement wording,76,3,True,True,realize | adopts | solves
+T07.03.01,T07.03,3,"Protein diagnostics, tissue assays and antibodies",1759,18,True,False,detection | protein | tissue | corresponding | useful | proteins | encoded | kits | variants | cancer | antibodies | fragments
+T07.03.02,T07.03,3,Tissue repair and biological activation,397,8,True,False,repair | linked | operably | tissues | activate | repairing | meets | requirement
+T07.03.R,T07.03,3,Residual protein binding-domain descriptors,318,4,True,True,binding | characterized | domain | translate
+T08.01.01,T08.01,3,Infrared/ultraviolet radiation and disinfection,812,9,True,False,radiation | transparent | wavelength | visible | infrared | ultraviolet | sterilization | far | disinfection
+T08.01.02,T08.01,3,"Lamps, ceiling fixtures and lighting equipment",568,8,True,False,lamp | lighting | fixture | ceiling | bulb | fluorescent | lamps | fixtures
+T08.01.03,T08.01,3,Illumination intensity and light scattering,1060,8,True,False,light | illumination | intensity | emitted | illuminated | emit | illuminating | scattering
+T08.01.R,T08.01,3,Residual LED and light-emitting diodes,269,5,True,True,emitting | led | light emitting | diode | light-emitting

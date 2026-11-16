@@ -1,0 +1,232 @@
+node_id,parent_id,depth,angle_rad,radial_level,name,support
+ROOT,,0,1.6571984526687111,0.0,Patent-derived engineering and resource-process vocabulary,42354
+T01,ROOT,1,-1.3108665741673746,1.1,"Mechanical assemblies, mobility equipment and apparatus",35387
+T02,ROOT,1,-0.7636028440943944,1.1,"Digital processing, sensing and information systems",30322
+T03,ROOT,1,0.017523634493825695,1.1,"Industrial materials, process streams and resource treatment",25512
+T04,ROOT,1,0.8466516526724922,1.1,"Polymer, composite and manufactured material systems",23899
+T05,ROOT,1,1.5074835718430695,1.1,"Fluid handling, thermal equipment and combustion systems",22897
+T06,ROOT,1,2.1420460711329725,1.1,"Electrical energy, magnetic machinery and connected devices",17176
+T07,ROOT,1,2.715989648371576,1.1,"Molecular biotechnology, diagnostics and therapeutics",11681
+T08,ROOT,1,3.2718611286655723,1.1,"Photonics, optics and solar-energy devices",7291
+T09,ROOT,1,3.7830224500445837,1.1,Patent-publication metadata terms,295
+TR,ROOT,1,4.361875787724786,1.1,Residual circularity and prior-art descriptors,436
+T01.01,T01,2,-1.5793782388287645,2.35,"Structural housings, plates and mounting assemblies",32170
+T01.02,T01,2,-1.4477548737986714,2.35,"Vehicle drivetrains, shafts and moving mechanisms",17956
+T01.03,T01,2,-1.2634821627565411,2.35,"Aircraft bodies, seating and floating structures",4634
+T01.04,T01,2,-1.1581834707324665,2.35,Washing and drying machinery,2170
+T01.R,T01,2,-1.1055341247204293,2.35,Residual mechanical-connection phrasing,126
+T03.01,T03,2,-0.34246276446647306,2.35,"Water, wastewater and fluid-treatment infrastructure",7398
+T03.02,T03,2,0.08670668836567466,2.35,"Agricultural biomass, soil and biological conversion",5258
+T03.03,T03,2,-0.08214686684697364,2.35,"Aqueous extraction, solvent recovery and metal separation",5489
+T03.04,T03,2,-0.2580359868601489,2.35,"Solid minerals, slags and construction feedstocks",6610
+T03.05,T03,2,-0.4128184124717432,2.35,"Mixed waste, plastic streams and liquid processing",8257
+T03.06,T03,2,-0.17360920925382478,2.35,"Carbon feedstocks, syngas and hydrogen conversion",5698
+T03.07,T03,2,-0.004755654041176505,2.35,"Metallurgy, alloys and high-temperature reactions",5289
+T03.08,T03,2,0.2555602435783229,2.35,Resource-utilization claims and residue descriptors,3069
+T03.09,T03,2,0.1852045955730528,2.35,"Exhaust gases, catalytic treatment and purification",4506
+T03.10,T03,2,0.30480919718201205,2.35,Porous media and particulate filtration,1821
+T03.11,T03,2,0.318880326783066,2.35,Fuel burners and staged combustion equipment,1419
+T03.12,T03,2,0.33295145638412005,2.35,Fluidized beds and contaminant-reactive treatment,902
+T04.01,T04,2,0.4405205987191707,2.35,"Functional films, conductive layers and substrates",8480
+T04.02,T04,2,0.5448969486643407,2.35,"Fiber, textile and web-based materials",5707
+T04.03,T04,2,0.713504898575769,2.35,"Recycled polymers, polyester and plastic chemistry",4235
+T04.04,T04,2,0.793794398533592,2.35,"Concrete, structural composites and thermal insulation",4169
+T04.05,T04,2,0.8821128484871974,2.35,"Resins, molding and elastomeric articles",4094
+T04.06,T04,2,0.6412443486137283,2.35,"Sheet fabrication, extrusion and additive manufacturing",4286
+T04.07,T04,2,0.9945181484281496,2.35,Functional chemical compounds and polymer foams,2454
+T04.08,T04,2,0.9463444484534559,2.35,"Coatings, phase-change formulations and printing",2938
+T04.09,T04,2,1.0266339484112788,2.35,High-strength and corrosion-resistant steels,2178
+T04.10,T04,2,1.058749748394408,2.35,"Residual stress, fatigue and material lifetime",1419
+T04.11,T04,2,1.0426918484028436,2.35,"Printed circuit boards, pads and finishing",1501
+T04.12,T04,2,1.0748076483859728,2.35,"Microfluidic wells, fillers and assay surfaces",1242
+T05.01,T05,2,1.2003467177243448,2.35,"Valves, pumps and fluid-flow controls",9120
+T05.02,T05,2,1.3306472012898642,2.35,"Heat transfer, cooling and heating equipment",5658
+T05.03,T05,2,1.4330261526627728,2.35,"Tire structures, tread and inflation devices",5269
+T05.04,T05,2,1.2748041369046417,2.35,Internal-combustion cylinders and engine mechanisms,6379
+T05.05,T05,2,1.5260979266381438,2.35,"Air movement, turbines and compressor systems",3705
+T05.06,T05,2,1.5912481684209034,2.35,"Fuel injectors, nozzles and spray metering",2787
+T05.07,T05,2,1.6657055876012006,2.35,"Air intakes, manifolds and throttle systems",1709
+T05.08,T05,2,1.6284768780110521,2.35,Reactor vessels and nuclear containment equipment,2486
+T05.09,T05,2,1.7029342971913488,2.35,Interior-exterior passage geometry,1291
+T05.R,T05,2,1.7215486519864232,2.35,Residual problem-statement wording,54
+T06.01,T06,2,1.8458934998152632,2.35,"Batteries, electrodes and electrochemical cells",5491
+T06.02,T06,2,2.096604671301155,2.35,"Electric machines, magnetic cores and windings",4595
+T06.03,T06,2,1.971249085558209,2.35,"Power supply, energy storage and generation",4921
+T06.04,T06,2,2.1843535813212167,2.35,"Electrical connectors, conductors and switches",3481
+T06.05,T06,2,2.221960257044101,2.35,Spark-plug electrodes and ignition gaps,1837
+T06.06,T06,2,2.272102491341279,2.35,Catheter drainage and pressure-control devices,1011
+T06.07,T06,2,2.24703137419269,2.35,Magnetic-resonance imaging and pulse sequences,1189
+T06.R,T06,2,2.297173608489868,2.35,Residual energy-conservation terminology,19
+T07.01,T07,2,2.449817954644055,2.35,"Engineered cells, genes and biological sequences",5719
+T07.02,T07,2,2.607765992680166,2.35,Therapeutic treatment and controlled release,4146
+T07.03,T07,2,2.7306144667082535,2.35,"Protein detection, tissue assays and repair",2360
+T07.04,T07,2,2.835913158732328,2.35,Targeted delivery and permeability control,1371
+T07.05,T07,2,2.800813594724303,2.35,Nucleic-acid and gene-expression inhibition,1390
+T07.R,T07,2,2.871012722740353,2.35,Residual seed and repeated-sequence wording,257
+T08.01,T08,2,3.0462210743282694,2.35,"Illumination, radiation and light-emission sources",2175
+T08.02,T08,2,3.2304937853704,2.35,"Optical lenses, detectors and waveguides",1808
+T08.03,T08,2,3.1778444393583625,2.35,Laser and beam-based welding systems,1838
+T08.04,T08,2,3.2831431313824373,2.35,"Solar optics, reflectors and photovoltaics",1125
+T08.05,T08,2,3.3884418234065117,2.35,Photographic silver-halide and photosensitive media,839
+T08.06,T08,2,3.3357924773944743,2.35,"Color, emission and registration surfaces",1116
+T08.R,T08,2,3.4410911694185486,2.35,Residual liquid-crystal and polarizing terms,577
+T01.02.01,T01.02,3,-1.5267288928167273,3.65,"Shaft, gear and transmission couplings",8425
+T01.02.02,T01.02,3,-1.47407954680469,3.65,"Vehicle wheels, suspension and motor assemblies",8309
+T01.02.03,T01.02,3,-1.4214302007926527,3.65,"Cam, actuator and variable-motion mechanisms",6216
+T01.02.04,T01.02,3,-1.3687808547806155,3.65,Pivoting alignment racks and exercise mechanisms,2520
+T01.03.01,T01.03,3,-1.3161315087685783,3.65,"Aircraft bodies, seats and wing structures",3868
+T01.03.02,T01.03,3,-1.263482162756541,3.65,Buoyant marine hulls and offshore deployment,856
+T01.03.R,T01.03,3,-1.2108328167445037,3.65,Residual unmanned aerial-vehicle terminology,126
+T03.01.01,T03.01,3,-0.3565338940675271,3.65,"Wastewater, sewage sludge and drying treatments",2382
+T03.01.02,T03.01,3,-0.3706050236685811,3.65,"Water pipelines, tanks and thermal circulation",3143
+T03.01.03,T03.01,3,-0.34246276446647306,3.65,"Flue-gas absorption, dust removal and heat recovery",1736
+T03.01.04,T03.01,3,-0.32839163486541906,3.65,Municipal refuse collection and disposal infrastructure,976
+T03.01.05,T03.01,3,-0.31432050526436506,3.65,Reverse-osmosis membranes and desalination,808
+T03.02.01,T03.02,3,0.02338660516093155,3.65,Microbial fermentation and ethanol bioprocesses,999
+T03.02.02,T03.02,3,0.09374225316620166,3.65,"Crop cultivation, irrigation and ecological planting",701
+T03.02.03,T03.02,3,0.03745773476198555,3.65,"Algal growth, aquaculture and nutrient use",980
+T03.02.04,T03.02,3,0.051528864363039606,3.65,"Culture media, fungal cultivation and harvesting",942
+T03.02.05,T03.02,3,0.12188451236830966,3.65,"Livestock, manure and poultry-derived streams",460
+T03.02.06,T03.02,3,0.13595564196936372,3.65,"Rice straw, grain residues and seedling substrates",414
+T03.02.07,T03.02,3,0.10781338276725572,3.65,Fruit and vegetable preparation processes,498
+T03.02.08,T03.02,3,0.07967112356514772,3.65,Hydrothermal biomass conversion and biochar,737
+T03.02.09,T03.02,3,0.06559999396409355,3.65,"Organic fertilizers, soil and waste amendments",939
+T03.02.R,T03.02,3,0.15002677157041777,3.65,"Residual biogas, anaerobic digestion and separation terms",505
+T03.03.01,T03.03,3,-0.13139582045066273,3.65,Metal-ion extraction and heavy-metal recovery,2090
+T03.03.02,T03.03,3,-0.10325356124855473,3.65,Spent-solvent extraction and precipitation,1170
+T03.03.03,T03.03,3,-0.11732469084960867,3.65,"Acidic leaching, filtration and stripping",1223
+T03.03.04,T03.03,3,-0.08918243164750062,3.65,"Calcium, sodium and sulfate salt conversion",1002
+T03.03.05,T03.03,3,-0.06104017244539256,3.65,Titanium dioxide and waste-acid hydrolysis,427
+T03.03.06,T03.03,3,-0.07511130204644667,3.65,"Brine concentration, evaporation and crystallization",607
+T03.03.07,T03.03,3,-0.046969042844338615,3.65,"Chloride, PVC and hydrochloric by-products",328
+T03.03.R,T03.03,3,-0.032897913243284505,3.65,"Residual rare-earth, phosphate and alkaline chemistry",723
+T03.04.01,T03.04,3,-0.27210711646120295,3.65,Silicon-carbide sintering and hardening,1117
+T03.04.02,T03.04,3,-0.28617824606225695,3.65,"Slag grinding, tailings and cement powders",1307
+T03.04.03,T03.04,3,-0.300249375663311,3.65,Raw-material preparation and dispersing agents,2602
+T03.04.04,T03.04,3,-0.25803598686014895,3.65,"Sand, silica aggregates and mortar formulations",877
+T03.04.05,T03.04,3,-0.24396485725909492,3.65,"Coal slurries, lime calcination and rotary kilns",637
+T03.04.06,T03.04,3,-0.2298937276580409,3.65,"Fly ash, red mud and desulfurized gypsum",486
+T03.04.R,T03.04,3,-0.21582259805698686,3.65,Residual particulate solids and regeneration terminology,1966
+T03.05.01,T03.05,3,-0.39874728287068917,3.65,"Fractionation, distillation and material pellets",1292
+T03.05.02,T03.05,3,-0.41281841247174317,3.65,Pyrolysis feedstocks and hydrocarbon cracking,1994
+T03.05.03,T03.05,3,-0.4409606716738512,3.65,Liquid mixing and solid-liquid separation,3256
+T03.05.04,T03.05,3,-0.4268895420727972,3.65,Plastic-waste streams and chemical recycling,2750
+T03.05.05,T03.05,3,-0.3846761532696351,3.65,"Lubricating oils, greases and oil-pump equipment",1086
+T03.06.01,T03.06,3,-0.17360920925382478,3.65,Activated-carbon adsorption and contact treatment,1612
+T03.06.02,T03.06,3,-0.18768033885487884,3.65,"Steam conversion, methane and syngas pathways",1622
+T03.06.03,T03.06,3,-0.20175146845593284,3.65,Hydrogen production and water electrolysis,1955
+T03.06.04,T03.06,3,-0.15953807965277078,3.65,"Carbon dioxide, sorbents and sequestration",959
+T03.06.R,T03.06,3,-0.14546695005171673,3.65,Residual carbonaceous gas and carbon-black terms,681
+T03.07.01,T03.07,3,-0.01882678364223056,3.65,"Aluminum, copper and zinc alloy processing",2203
+T03.07.02,T03.07,3,0.009315475559877495,3.65,Ceramic reaction zones and reactive constituents,1665
+T03.07.03,T03.07,3,-0.004755654041176449,3.65,"Molten-metal furnaces, casting and smelting",1991
+T03.08.01,T03.08,3,0.24852467877779594,3.65,"Bamboo, timber and economic-benefit descriptors",660
+T03.08.02,T03.08,3,0.23445354917674188,3.65,Industrial resource-use and utilization wording,666
+T03.08.03,T03.08,3,0.22038241957568794,3.65,Process reduction and withdrawal descriptors,871
+T03.08.04,T03.08,3,0.2625958083788499,3.65,Shredded by-products and waste-residue handling,543
+T03.08.05,T03.08,3,0.27666693797990405,3.65,Industrial pollution and secondary-emission wording,500
+T03.08.R,T03.08,3,0.290738067580958,3.65,Residual ice and frozen-material terms,183
+T03.09.01,T03.09,3,0.16409790117147183,3.65,Catalytic oxidation and diesel-emission reduction,2591
+T03.09.02,T03.09,3,0.17816903077252577,3.65,Exhaust-gas recirculation and gas-stream treatment,1947
+T03.09.03,T03.09,3,0.19224016037357983,3.65,Tail-gas purification and pollutant removal,498
+T03.09.R,T03.09,3,0.20631128997463377,3.65,Residual gas-inlet and outlet terminology,111
+T04.01.01,T04.01,3,0.4164337487318238,3.65,Patterned dielectric deposition and substrates,2927
+T04.01.02,T04.01,3,0.4003758487402592,3.65,Flexible barrier films and packaging laminates,3658
+T04.01.03,T04.01,3,0.4324916487233884,3.65,"Semiconductor chips, wafers and transistor layers",1449
+T04.01.04,T04.01,3,0.44854954871495306,3.65,Adhesive bonding and pressure-sensitive layers,1180
+T04.01.05,T04.01,3,0.46460744870651766,3.65,Conductive coatings and capacitive materials,670
+T04.01.R,T04.01,3,0.48066534869808225,3.65,Residual insulation-thickness and thermal barriers,776
+T04.02.01,T04.02,3,0.49672324868964685,3.65,Cellulosic and glass-fiber mat fabrication,2506
+T04.02.02,T04.02,3,0.5127811486812115,3.65,Continuous web rolls and labeling systems,917
+T04.02.03,T04.02,3,0.5288390486727761,3.65,Nonwoven filaments and textile fabrics,734
+T04.02.04,T04.02,3,0.5609548486559053,3.65,Knitting needles and yarn manufacturing,612
+T04.02.05,T04.02,3,0.5448969486643407,3.65,Twisted strands and continuous bulk fibers,712
+T04.02.06,T04.02,3,0.5770127486474699,3.65,"Textile spinning, carpets and leather materials",508
+T04.02.R,T04.02,3,0.5930706486390345,3.65,"Residual paper pulp, wood and corrugated products",779
+T04.03.01,T04.03,3,0.689418048588422,3.65,Recycled polyolefin and polypropylene blends,2325
+T04.03.02,T04.03,3,0.7054759485799867,3.65,Monomer chemistry and polymer depolymerization,1778
+T04.03.03,T04.03,3,0.7215338485715513,3.65,"PET, polyester resins and glycol modification",752
+T04.03.R,T04.03,3,0.7375917485631159,3.65,Residual compostable and biodegradable polymers,342
+T04.04.01,T04.04,3,0.8018233485293744,3.65,Fiber-reinforced wrapping and encapsulation,664
+T04.04.02,T04.04,3,0.7857654485378098,3.65,Structural spacers and thermal insulation,717
+T04.04.03,T04.04,3,0.7697075485462451,3.65,"Precast concrete, foundations and piles",954
+T04.04.04,T04.04,3,0.817881248520939,3.65,Lightweight cementitious aggregates and stiffness,546
+T04.04.05,T04.04,3,0.7536496485546805,3.65,Nanoparticle-reinforced composite matrices,1154
+T04.04.R,T04.04,3,0.8339391485125036,3.65,Residual reinforced-concrete and building terms,817
+T04.05.01,T04.05,3,0.8660549484956328,3.65,"Curing, thermoset and thermoplastic resins",1120
+T04.05.02,T04.05,3,0.8499970485040682,3.65,Foamed and absorbent molded articles,1285
+T04.05.03,T04.05,3,0.898170748478762,3.65,Stretch-blow molding and preforms,524
+T04.05.04,T04.05,3,0.8821128484871974,3.65,Elastomer deformation and stretchable articles,707
+T04.05.R,T04.05,3,0.9142286484703266,3.65,Residual injection molds and cavity terms,1034
+T04.06.01,T04.06,3,0.6251864486221637,3.65,Rolled sheet and sheet-material fabrication,1153
+T04.06.02,T04.06,3,0.6573022486052928,3.65,"Melt extrusion, granules and quenching",660
+T04.06.03,T04.06,3,0.6091285486305991,3.65,Additive manufacturing and material mixtures,1684
+T04.06.04,T04.06,3,0.6412443486137283,3.65,Joining and fabrication of sheet-metal pieces,693
+T04.06.R,T04.06,3,0.6733601485968574,3.65,"Residual die pressing, mandrels and punching",622
+T04.07.01,T04.07,3,0.9945181484281497,3.65,"Alcohol, alkyl and water-soluble chemical formulas",982
+T04.07.02,T04.07,3,0.978460248436585,3.65,Amine and functional-group formulations,1345
+T04.07.R,T04.07,3,1.0105760484197142,3.65,Residual polyurethane foam and bio-based polyols,362
+T04.08.01,T04.08,3,0.9302865484618912,3.65,"Binder coatings, pigments and substrate deposition",1512
+T04.08.02,T04.08,3,0.9463444484534558,3.65,"Crystalline, amorphous and phase-change media",1165
+T04.08.R,T04.08,3,0.9624023484450204,3.65,Residual inkjet printing and interconnects,455
+T05.01.01,T05.01,3,1.1631180081341963,3.65,"Flow paths, gas-flow rate and fluid velocity",2278
+T05.01.02,T05.01,3,1.144503653339122,3.65,"Control valves, valve seats and valve bodies",2333
+T05.01.03,T05.01,3,1.2003467177243448,3.65,"Inlet, outlet and fluid-conduit geometry",1559
+T05.01.04,T05.01,3,1.2189610725194189,3.65,Pressure-relief diaphragms and gauges,1244
+T05.01.05,T05.01,3,1.2375754273144932,3.65,"Turbulence, pressure excess and flow instability",589
+T05.01.06,T05.01,3,1.1817323629292704,3.65,"Pumps, reservoirs and pressurized fluid supply",2129
+T05.01.R,T05.01,3,1.2561897821095673,3.65,"Residual hydraulic ports, passages and check valves",2159
+T05.02.01,T05.02,3,1.2934184916997158,3.65,Heating elements and temperature regulation,2414
+T05.02.02,T05.02,3,1.3120328464947901,3.65,Heat exchangers and thermal circulation,1314
+T05.02.03,T05.02,3,1.3306472012898642,3.65,"Coolants, radiators and evaporative cooling",919
+T05.02.04,T05.02,3,1.3492615560849386,3.65,"Condensers, evaporators and refrigeration loops",452
+T05.02.R,T05.02,3,1.367875910880013,3.65,"Residual tubes, heat sinks and transfer fins",1668
+T05.03.01,T05.03,3,1.386490265675087,3.65,Radial tire geometry and pneumatic contours,1979
+T05.03.02,T05.03,3,1.4237189752652355,3.65,"Tire rubber, tread, bead and carcass construction",940
+T05.03.03,T05.03,3,1.460947684855384,3.65,Air-maintenance tire pumps and valve stems,476
+T05.03.04,T05.03,3,1.4423333300603098,3.65,Self-inflating tire passages and regulators,497
+T05.03.05,T05.03,3,1.4051046204701612,3.65,Tire sidewall grooves and rolling footprint,1797
+T05.03.06,T05.03,3,1.479562039650458,3.65,Radially inward and outward tire extensions,434
+T05.05.01,T05.05,3,1.4981763944455324,3.65,"Fans, ducts and ventilation airflow",2215
+T05.05.02,T05.05,3,1.5354051040356809,3.65,Gas turbines and diffusers,687
+T05.05.03,T05.05,3,1.5167907492406068,3.65,"Centrifugal compressors, impellers and vanes",802
+T05.05.R,T05.05,3,1.554019458830755,3.65,Residual compressed-air and air-conditioning terms,550
+T05.06.01,T05.06,3,1.5726338136258293,3.65,Fuel-injection metering and injector orifices,2125
+T05.06.02,T05.06,3,1.5912481684209037,3.65,Spray nozzles and droplet formation,817
+T05.06.R,T05.06,3,1.6098625232159778,3.65,Residual fuel-air mixture terminology,70
+T05.07.01,T05.07,3,1.6657055876012006,3.65,"Air-intake manifolds, carburetors and venturis",716
+T05.07.02,T05.07,3,1.6470912328061262,3.65,"Intake air, swirl and cylinder charge",855
+T05.07.R,T05.07,3,1.6843199423962747,3.65,Residual throttles and idle-control terms,357
+T06.01.01,T06.01,3,1.8458934998152632,3.65,Lithium-ion batteries and graphite electrodes,1204
+T06.01.02,T06.01,3,1.7957512655180847,3.65,Active energy elements and device cavities,1771
+T06.01.03,T06.01,3,1.8208223826666738,3.65,Electrode arrays and collectors,1651
+T06.01.04,T06.01,3,1.8960357341124414,3.65,"Battery packs, charging and cell integration",817
+T06.01.05,T06.01,3,1.8709646169638523,3.65,"Cathodes, anodes and electrochemical cells",1041
+T06.02.01,T06.02,3,2.0464624370039766,3.65,"Coils, transformer windings and inductive cores",1845
+T06.02.02,T06.02,3,2.096604671301155,3.65,"Magnetic fields, flux and electromagnets",1340
+T06.02.03,T06.02,3,2.121675788449744,3.65,Permanent magnets and magnetic forces,651
+T06.02.04,T06.02,3,2.0715335541525657,3.65,"Electric motors, rotors and stators",1416
+T06.02.R,T06.02,3,2.146746905598333,3.65,"Residual pole, armature and solenoid terms",427
+T06.03.01,T06.03,3,1.9211068512610305,3.65,Electrical power distribution and supply voltages,1897
+T06.03.02,T06.03,3,1.9461779684096197,3.65,"Energy storage, flywheels and energy conversion",1514
+T06.03.03,T06.03,3,1.971249085558209,3.65,Wind turbines and electrical generators,940
+T06.03.04,T06.03,3,1.996320202706798,3.65,Thermal management and material expansion,770
+T06.03.R,T06.03,3,2.0213913198553874,3.65,Residual electricity and exothermic generation terms,608
+T06.04.01,T06.04,3,2.171818022746922,3.65,"Electrical contacts, terminals and switching",2441
+T06.04.02,T06.04,3,2.1968891398955117,3.65,"Conductors, cables and wire shielding",1323
+T07.01.01,T07.01,3,2.379618826628005,3.65,DNA/RNA probes and molecular species,1983
+T07.01.02,T07.01,3,2.4498179546440544,3.65,"Recombinant hosts, vectors and degradation enzymes",1679
+T07.01.03,T07.01,3,2.41471839063603,3.65,Engineered bacterial cells and gene modification,1794
+T07.01.04,T07.01,3,2.4849175186520793,3.65,"Nucleic acids, fatty acids and pathway engineering",1086
+T07.01.05,T07.01,3,2.5200170826601043,3.65,"Polypeptide, nucleotide and amino-acid sequences",678
+T07.02.01,T07.02,3,2.555116646668129,3.65,Controlled-release agents and therapeutic treatment,3019
+T07.02.02,T07.02,3,2.5902162106761537,3.65,"Peptides, viral infection and immune responses",948
+T07.02.03,T07.02,3,2.6253157746841786,3.65,Naturally occurring derivatives and inhibitory isolation,514
+T07.02.R,T07.02,3,2.6604153386922036,3.65,Residual therapeutic problem-statement wording,76
+T07.03.01,T07.03,3,2.6955149027002285,3.65,"Protein diagnostics, tissue assays and antibodies",1759
+T07.03.02,T07.03,3,2.7306144667082535,3.65,Tissue repair and biological activation,397
+T07.03.R,T07.03,3,2.765714030716278,3.65,Residual protein binding-domain descriptors,318
+T08.01.01,T08.01,3,3.0198964013222507,3.65,Infrared/ultraviolet radiation and disinfection,812
+T08.01.02,T08.01,3,3.072545747334288,3.65,"Lamps, ceiling fixtures and lighting equipment",568
+T08.01.03,T08.01,3,2.9672470553102137,3.65,Illumination intensity and light scattering,1060
+T08.01.R,T08.01,3,3.1251950933463255,3.65,Residual LED and light-emitting diodes,269

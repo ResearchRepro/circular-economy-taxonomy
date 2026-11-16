@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: Mapping circular economy technologies through patent networks and hierarchical community detection
+message: "If you use this repository, please cite the accompanying manuscript."
+repository-code: https://github.com/ResearchRepro/ce-circular-economy-leiden-taxonomy-2026
+keywords:
+  - circular economy
+  - patents
+  - technology taxonomy
+  - Leiden algorithm
+  - reproducibility

@@ -1,0 +1,13 @@
+﻿node_id,parent_id,depth,y_layout,term_count,patent_units,label,is_residual
+T08,ROOT,1,3.2142857142857144,140,7291,light / optical / beam,False
+T08.01,T08,2,7.5,30,2175,light / radiation / lamp,False
+T08.02,T08,2,0.0,25,1808,optical / lens / detector,False
+T08.03,T08,2,1.0,23,1838,beam / laser / welding,False
+T08.04,T08,2,2.0,18,1125,solar / reflective / reflector,False
+T08.05,T08,2,3.0,18,839,silver / white / exposure,False
+T08.06,T08,2,4.0,17,1116,color / emission / screening,False
+T08.R,T08,2,5.0,9,577,crystal / incorporating / wide,True
+T08.01.01,T08.01,3,6.0,9,812,radiation / transparent / wavelength,False
+T08.01.02,T08.01,3,7.0,8,568,lamp / lighting / fixture,False
+T08.01.03,T08.01,3,8.0,8,1060,light / illumination / intensity,False
+T08.01.R,T08.01,3,9.0,5,269,emitting / led / light emitting,True

@@ -1,0 +1,11 @@
+root_id,root_exact_phrase_label,root_terms,root_patent_support,direct_children,level3_descendants,all_nodes_in_subtree,terminal_at_root,residual_root
+T01,assembly / member / body,1470,35387,5,7,13,False,False
+T02,data / unit / component,1009,30322,0,0,1,True,False
+T03,gas / waste / water,868,25512,12,53,66,False,False
+T04,layer / substrate / manufacturing,552,23899,12,39,52,False,False
+T05,engine / valve / air,427,22897,10,28,39,False,False
+T06,power / elements / storage,248,17176,8,17,26,False,False
+T07,acid / cells / treating,238,11681,6,12,19,False,False
+T08,light / optical / beam,140,7291,7,4,12,False,False
+T09,date / pct / sec,8,295,0,0,1,True,False
+TR,prior / superior / art,15,436,0,0,1,True,True

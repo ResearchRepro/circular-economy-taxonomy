@@ -1,0 +1,14 @@
+﻿node_id,parent_id,depth,y_layout,term_count,patent_units,label,is_residual
+T01,ROOT,1,3.1,1470,35387,assembly / member / body,False
+T01.01,T01,2,0.0,1044,32170,assembly / member / portion,False
+T01.02,T01,2,4.5,340,17956,vehicle / shaft / mechanism,False
+T01.03,T01,2,8.0,63,4634,body / main / seat,False
+T01.04,T01,2,1.0,21,2170,machine / dry / drum,False
+T01.R,T01,2,2.0,2,126,operatively / operatively connected,True
+T01.02.01,T01.02,3,3.0,113,8425,shaft / drive / ring,False
+T01.02.02,T01.02,3,4.0,107,8309,vehicle / motor / wheel,False
+T01.02.03,T01.02,3,5.0,80,6216,mechanism / variable / arm,False
+T01.02.04,T01.02,3,6.0,40,2520,selectively / alignment / rack,False
+T01.03.01,T01.03,3,7.0,38,3868,body / main / seat,False
+T01.03.02,T01.03,3,8.0,21,856,floating / deployment / float,False
+T01.03.R,T01.03,3,9.0,4,126,aerial / preset / unmanned,True

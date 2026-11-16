@@ -1,0 +1,53 @@
+﻿node_id,parent_id,depth,y_layout,term_count,patent_units,label,is_residual
+T04,ROOT,1,17.458333333333332,552,23899,layer / substrate / manufacturing,False
+T04.01,T04,2,6.5,105,8480,layer / substrate / film,False
+T04.02,T04,2,13.0,73,5707,making / fiber / structures,False
+T04.03,T04,2,18.5,71,4235,polymer / weight / recycled,False
+T04.04,T04,2,23.5,57,4169,composite / construction / concrete,False
+T04.05,T04,2,29.0,53,4094,cavity / resin / article,False
+T04.06,T04,2,34.0,46,4286,manufacturing / sheet / manufacture,False
+T04.07,T04,2,38.0,34,2454,group / compound / foam,False
+T04.08,T04,2,41.0,30,2938,phase / coating / printing,False
+T04.09,T04,2,0.0,28,2178,steel / resistance / properties,False
+T04.10,T04,2,1.0,22,1419,preferably / profile / stress,False
+T04.11,T04,2,2.0,17,1501,circuit / board / pad,False
+T04.12,T04,2,3.0,16,1242,density / filler / filling,False
+T04.01.01,T04.01,3,4.0,29,2927,substrate / pattern / formation,False
+T04.01.02,T04.01,3,5.0,26,3658,layer / film / flexible,False
+T04.01.03,T04.01,3,6.0,18,1449,semiconductor / three-dimensional / effect,False
+T04.01.04,T04.01,3,7.0,15,1180,adhesive / skin / bonding,False
+T04.01.05,T04.01,3,8.0,8,670,conductive / electrically / electrically conductive,False
+T04.01.R,T04.01,3,9.0,9,776,thickness / insulating / thermally,True
+T04.02.01,T04.02,3,10.0,15,2506,making / fiber / structures,False
+T04.02.02,T04.02,3,11.0,12,917,web / roll / rolls,False
+T04.02.03,T04.02,3,12.0,12,734,fabric / filaments / nonwoven,False
+T04.02.04,T04.02,3,13.0,10,612,needle / locations / yarn,False
+T04.02.05,T04.02,3,14.0,8,712,continuous / bulk / strands,False
+T04.02.06,T04.02,3,15.0,8,508,textile / spinning / fibres,False
+T04.02.R,T04.02,3,16.0,8,779,paper / wood / pulp,True
+T04.03.01,T04.03,3,17.0,28,2325,weight / recycled / total,False
+T04.03.02,T04.03,3,18.0,24,1778,polymer / polymeric / derived,False
+T04.03.03,T04.03,3,19.0,14,752,polyester / polyethylene / pet,False
+T04.03.R,T04.03,3,20.0,5,342,biodegradable / recyclable / home,True
+T04.04.01,T04.04,3,21.0,13,664,constructing / wrapped / wrapping,False
+T04.04.02,T04.04,3,22.0,10,717,insulation / spacer / circulation,False
+T04.04.03,T04.04,3,23.0,9,954,construction / concrete / foundation,False
+T04.04.04,T04.04,3,24.0,8,546,lightweight / shear / loads,False
+T04.04.05,T04.04,3,25.0,8,1154,composite / matrix / composite material,False
+T04.04.R,T04.04,3,26.0,9,817,building / reinforced / reinforcing,True
+T04.05.01,T04.05,3,27.0,14,1120,resin / thermoplastic / synthetic,False
+T04.05.02,T04.05,3,28.0,13,1285,article / articles / molded,False
+T04.05.03,T04.05,3,29.0,11,524,stretch / specified / mould,False
+T04.05.04,T04.05,3,30.0,8,707,elastic / elastomeric / deformable,False
+T04.05.R,T04.05,3,31.0,7,1034,cavity / mold / molding,True
+T04.06.01,T04.06,3,32.0,11,1153,sheet / sheets / sheet material,False
+T04.06.02,T04.06,3,33.0,10,660,extrusion / extruded / filled,False
+T04.06.03,T04.06,3,34.0,9,1684,manufacturing / manufacture / additive,False
+T04.06.04,T04.06,3,35.0,8,693,pieces / joining / fabricating,False
+T04.06.R,T04.06,3,36.0,8,622,die / press / mandrel,True
+T04.07.01,T04.07,3,37.0,17,982,formula / alcohol / bond,False
+T04.07.02,T04.07,3,38.0,12,1345,group / compound / groups,False
+T04.07.R,T04.07,3,39.0,5,362,foam / polyurethane / blowing,True
+T04.08.01,T04.08,3,40.0,15,1512,coating / coated / applying,False
+T04.08.02,T04.08,3,41.0,10,1165,phase / change / substrates,False
+T04.08.R,T04.08,3,42.0,5,455,printing / ink / print,True

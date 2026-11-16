@@ -1,0 +1,27 @@
+﻿node_id,parent_id,depth,y_layout,term_count,patent_units,label,is_residual
+T06,ROOT,1,7.3125,248,17176,power / elements / storage,False
+T06.01,T06,2,6.0,56,5491,elements / cell / electrode,False
+T06.02,T06,2,11.0,53,4595,core / rotor / electric,False
+T06.03,T06,2,16.0,50,4921,power / storage / energy,False
+T06.04,T06,2,19.5,31,3481,electrical / contact / connector,False
+T06.05,T06,2,0.0,22,1837,center / plug / ground,False
+T06.06,T06,2,1.0,17,1011,distal / distal end / proximal,False
+T06.07,T06,2,2.0,17,1189,imaging / subject / pulse,False
+T06.R,T06,2,3.0,2,19,conservation / energy conservation,True
+T06.01.01,T06.01,3,4.0,14,1204,primary / secondary / ion,False
+T06.01.02,T06.01,3,5.0,12,1771,elements / active / form,False
+T06.01.03,T06.01,3,6.0,12,1651,electrode / array / electrodes,False
+T06.01.04,T06.01,3,7.0,10,817,battery / charging / pack,False
+T06.01.05,T06.01,3,8.0,8,1041,cell / cathode / electrochemical,False
+T06.02.01,T06.02,3,9.0,16,1845,core / current / coil,False
+T06.02.02,T06.02,3,10.0,11,1340,magnetic / field / electromagnetic,False
+T06.02.03,T06.02,3,11.0,11,651,magnet / permanent / magnets,False
+T06.02.04,T06.02,3,12.0,9,1416,rotor / electric / hybrid,False
+T06.02.R,T06.02,3,13.0,6,427,pole / armature / solenoid,True
+T06.03.01,T06.03,3,14.0,13,1897,power / supply / distribution,False
+T06.03.02,T06.03,3,15.0,12,1514,storage / energy / energy storage,False
+T06.03.03,T06.03,3,16.0,10,940,generator / generation / wind,False
+T06.03.04,T06.03,3,17.0,8,770,thermal / expansion / coefficient,False
+T06.03.R,T06.03,3,18.0,7,608,generating / electricity / essential,True
+T06.04.01,T06.04,3,19.0,19,2441,electrical / contact / connector,False
+T06.04.02,T06.04,3,20.0,12,1323,wire / cable / conductor,False

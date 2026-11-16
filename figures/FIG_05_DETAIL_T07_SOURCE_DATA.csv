@@ -1,0 +1,20 @@
+﻿node_id,parent_id,depth,y_layout,term_count,patent_units,label,is_residual
+T07,ROOT,1,5.083333333333333,238,11681,acid / cells / treating,False
+T07.01,T07,2,5.0,107,5719,cells / single / new,False
+T07.02,T07,2,9.5,62,4146,treating / conditions / controlled,False
+T07.03,T07,2,13.0,30,2360,detection / protein / tissue,False
+T07.04,T07,2,0.0,18,1371,delivery / site / enhancing,False
+T07.05,T07,2,1.0,16,1390,acid / nucleic / compounds,False
+T07.R,T07,2,2.0,5,257,seed / seeds / angularly,True
+T07.01.01,T07.01,3,3.0,30,1983,single / plants / double,False
+T07.01.02,T07.01,3,4.0,24,1679,new / activity / host,False
+T07.01.03,T07.01,3,5.0,22,1794,cells / modified / specific,False
+T07.01.04,T07.01,3,6.0,18,1086,acids / starting / combining,False
+T07.01.05,T07.01,3,7.0,13,678,sequence / sequences / amino,False
+T07.02.01,T07.02,3,8.0,34,3019,treating / conditions / controlled,False
+T07.02.02,T07.02,3,9.0,17,948,human / cellular / pharmaceutical,False
+T07.02.03,T07.02,3,10.0,8,514,concerns / isolation / derivatives,False
+T07.02.R,T07.02,3,11.0,3,76,realize / adopts / solves,True
+T07.03.01,T07.03,3,12.0,18,1759,detection / protein / tissue,False
+T07.03.02,T07.03,3,13.0,8,397,repair / linked / operably,False
+T07.03.R,T07.03,3,14.0,4,318,binding / characterized / domain,True
